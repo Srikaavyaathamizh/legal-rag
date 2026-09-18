@@ -1,0 +1,868 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+
+    font-family:
+        Inter,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+    background: #f7f8fa;
+
+    color: #1f2937;
+
+    height: 100vh;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   APP
+   ========================================================= */
+
+.app {
+
+    height: 100vh;
+
+    display: flex;
+
+    flex-direction: column;
+}
+
+
+/* =========================================================
+   HEADER
+   ========================================================= */
+
+.header {
+
+    height: 72px;
+
+    background: #ffffff;
+
+    border-bottom: 1px solid #e5e7eb;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    padding: 0 32px;
+
+    flex-shrink: 0;
+}
+
+
+.brand {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 13px;
+}
+
+
+.logo {
+
+    width: 42px;
+
+    height: 42px;
+
+    border-radius: 12px;
+
+    background: #111827;
+
+    color: white;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    font-size: 22px;
+}
+
+
+.brand h1 {
+
+    font-size: 18px;
+
+    font-weight: 700;
+
+    color: #111827;
+}
+
+
+.brand p {
+
+    font-size: 12px;
+
+    color: #6b7280;
+
+    margin-top: 2px;
+}
+
+
+.status {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 7px;
+
+    font-size: 13px;
+
+    color: #4b5563;
+}
+
+
+.status-dot {
+
+    width: 8px;
+
+    height: 8px;
+
+    background: #22c55e;
+
+    border-radius: 50%;
+
+    box-shadow: 0 0 0 3px #dcfce7;
+}
+
+
+/* =========================================================
+   MAIN
+   ========================================================= */
+
+.main {
+
+    flex: 1;
+
+    overflow-y: auto;
+
+    display: flex;
+
+    justify-content: center;
+}
+
+
+.welcome {
+
+    width: min(900px, 92%);
+
+    margin: auto;
+
+    text-align: center;
+
+    padding: 40px 20px;
+}
+
+
+.welcome-icon {
+
+    width: 70px;
+
+    height: 70px;
+
+    margin: 0 auto 20px;
+
+    border-radius: 20px;
+
+    background: #111827;
+
+    color: white;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    font-size: 35px;
+}
+
+
+.welcome h2 {
+
+    font-size: 30px;
+
+    color: #111827;
+
+    margin-bottom: 12px;
+}
+
+
+.welcome > p {
+
+    max-width: 620px;
+
+    margin: auto;
+
+    line-height: 1.6;
+
+    color: #6b7280;
+
+    font-size: 15px;
+}
+
+
+/* =========================================================
+   SUGGESTIONS
+   ========================================================= */
+
+.suggestions {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 12px;
+
+    max-width: 680px;
+
+    margin: 30px auto 0;
+}
+
+
+.suggestions button {
+
+    background: white;
+
+    border: 1px solid #e5e7eb;
+
+    border-radius: 12px;
+
+    padding: 16px;
+
+    text-align: left;
+
+    cursor: pointer;
+
+    color: #374151;
+
+    font-size: 14px;
+
+    transition: 0.2s;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+}
+
+
+.suggestions button:hover {
+
+    border-color: #9ca3af;
+
+    background: #f9fafb;
+
+    transform: translateY(-1px);
+}
+
+
+.suggestions span {
+
+    font-size: 18px;
+}
+
+
+/* =========================================================
+   CHAT
+   ========================================================= */
+
+.chat {
+
+    width: min(900px, 92%);
+
+    padding: 30px 0 40px;
+}
+
+
+.hidden {
+
+    display: none !important;
+}
+
+
+.messages {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 24px;
+}
+
+
+/* =========================================================
+   MESSAGE
+   ========================================================= */
+
+.message {
+
+    display: flex;
+
+    gap: 12px;
+
+    animation: appear 0.25s ease;
+}
+
+
+@keyframes appear {
+
+    from {
+
+        opacity: 0;
+
+        transform: translateY(5px);
+
+    }
+
+    to {
+
+        opacity: 1;
+
+        transform: translateY(0);
+
+    }
+}
+
+
+.message.user {
+
+    justify-content: flex-end;
+}
+
+
+.message-avatar {
+
+    width: 34px;
+
+    height: 34px;
+
+    min-width: 34px;
+
+    border-radius: 10px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    font-size: 16px;
+}
+
+
+.assistant .message-avatar {
+
+    background: #111827;
+
+    color: white;
+}
+
+
+.user .message-avatar {
+
+    background: #e5e7eb;
+
+    color: #374151;
+
+    order: 2;
+}
+
+
+.message-content {
+
+    max-width: 75%;
+}
+
+
+.user .message-content {
+
+    background: #111827;
+
+    color: white;
+
+    padding: 12px 16px;
+
+    border-radius: 16px 16px 4px 16px;
+
+    line-height: 1.5;
+
+    font-size: 14px;
+}
+
+
+.assistant .message-content {
+
+    background: white;
+
+    border: 1px solid #e5e7eb;
+
+    border-radius: 4px 16px 16px 16px;
+
+    padding: 18px;
+
+    line-height: 1.65;
+
+    font-size: 14px;
+
+    width: 100%;
+}
+
+
+/* =========================================================
+   ANSWER
+   ========================================================= */
+
+.answer-title {
+
+    font-size: 16px;
+
+    font-weight: 700;
+
+    color: #111827;
+
+    margin-bottom: 10px;
+}
+
+
+.answer-text {
+
+    color: #374151;
+
+    white-space: pre-wrap;
+}
+
+
+/* =========================================================
+   META CARDS
+   ========================================================= */
+
+.meta {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 8px;
+
+    margin-top: 16px;
+}
+
+
+.badge {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    gap: 5px;
+
+    padding: 5px 9px;
+
+    border-radius: 7px;
+
+    background: #f3f4f6;
+
+    color: #4b5563;
+
+    font-size: 11px;
+
+    font-weight: 600;
+}
+
+
+.badge.law {
+
+    background: #eef2ff;
+
+    color: #4338ca;
+}
+
+
+.badge.good {
+
+    background: #ecfdf5;
+
+    color: #047857;
+}
+
+
+/* =========================================================
+   SOURCES
+   ========================================================= */
+
+.sources {
+
+    margin-top: 18px;
+
+    border-top: 1px solid #e5e7eb;
+
+    padding-top: 15px;
+}
+
+
+.sources-title {
+
+    font-size: 12px;
+
+    font-weight: 700;
+
+    color: #6b7280;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.05em;
+
+    margin-bottom: 10px;
+}
+
+
+.source-card {
+
+    border: 1px solid #e5e7eb;
+
+    border-radius: 9px;
+
+    padding: 10px 12px;
+
+    margin-top: 7px;
+
+    background: #fafafa;
+}
+
+
+.source-heading {
+
+    font-weight: 700;
+
+    color: #111827;
+
+    font-size: 13px;
+}
+
+
+.source-text {
+
+    font-size: 12px;
+
+    color: #6b7280;
+
+    margin-top: 4px;
+
+    line-height: 1.5;
+}
+
+
+/* =========================================================
+   LOADING
+   ========================================================= */
+
+.loading {
+
+    display: flex;
+
+    gap: 5px;
+
+    align-items: center;
+
+    color: #6b7280;
+
+    font-size: 13px;
+}
+
+
+.loading span {
+
+    width: 6px;
+
+    height: 6px;
+
+    background: #9ca3af;
+
+    border-radius: 50%;
+
+    animation: bounce 1.2s infinite;
+}
+
+
+.loading span:nth-child(2) {
+
+    animation-delay: 0.15s;
+}
+
+
+.loading span:nth-child(3) {
+
+    animation-delay: 0.3s;
+}
+
+
+@keyframes bounce {
+
+    0%, 60%, 100% {
+
+        transform: translateY(0);
+
+    }
+
+    30% {
+
+        transform: translateY(-5px);
+
+    }
+}
+
+
+/* =========================================================
+   INPUT
+   ========================================================= */
+
+.input-area {
+
+    background: #ffffff;
+
+    border-top: 1px solid #e5e7eb;
+
+    padding: 14px 20px 10px;
+
+    flex-shrink: 0;
+}
+
+
+.input-wrapper {
+
+    width: min(900px, 100%);
+
+    margin: auto;
+
+    border: 1px solid #d1d5db;
+
+    border-radius: 14px;
+
+    display: flex;
+
+    align-items: flex-end;
+
+    padding: 7px;
+
+    background: white;
+
+    box-shadow: 0 3px 15px rgba(0,0,0,0.04);
+}
+
+
+.date-box {
+
+    padding: 0 10px;
+
+    border-right: 1px solid #e5e7eb;
+
+    min-width: 145px;
+}
+
+
+.date-box label {
+
+    display: block;
+
+    font-size: 9px;
+
+    color: #9ca3af;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.05em;
+
+    margin-bottom: 2px;
+}
+
+
+.date-box input {
+
+    border: none;
+
+    outline: none;
+
+    font-size: 12px;
+
+    color: #374151;
+
+    width: 130px;
+
+    background: transparent;
+}
+
+
+.question-box {
+
+    flex: 1;
+
+    padding: 0 10px;
+}
+
+
+.question-box textarea {
+
+    width: 100%;
+
+    border: none;
+
+    outline: none;
+
+    resize: none;
+
+    font-family: inherit;
+
+    font-size: 14px;
+
+    line-height: 1.5;
+
+    max-height: 120px;
+
+    color: #111827;
+
+    padding: 7px 0;
+}
+
+
+.question-box textarea::placeholder {
+
+    color: #9ca3af;
+}
+
+
+.send-button {
+
+    width: 38px;
+
+    height: 38px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    background: #111827;
+
+    color: white;
+
+    cursor: pointer;
+
+    font-size: 18px;
+
+    transition: 0.2s;
+}
+
+
+.send-button:hover {
+
+    background: #374151;
+
+}
+
+
+.send-button:disabled {
+
+    opacity: 0.5;
+
+    cursor: not-allowed;
+}
+
+
+.input-hint {
+
+    width: min(900px, 100%);
+
+    margin: 6px auto 0;
+
+    text-align: center;
+
+    font-size: 10px;
+
+    color: #9ca3af;
+}
+
+
+.footer-note {
+
+    text-align: center;
+
+    font-size: 9px;
+
+    color: #9ca3af;
+
+    margin-top: 5px;
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 650px) {
+
+    .header {
+
+        padding: 0 15px;
+
+    }
+
+    .brand p {
+
+        display: none;
+
+    }
+
+    .status {
+
+        font-size: 11px;
+
+    }
+
+    .welcome h2 {
+
+        font-size: 24px;
+
+    }
+
+    .suggestions {
+
+        grid-template-columns: 1fr;
+
+    }
+
+    .message-content {
+
+        max-width: 88%;
+
+    }
+
+    .date-box {
+
+        min-width: 110px;
+
+    }
+
+    .date-box input {
+
+        width: 100px;
+
+    }
+
+}

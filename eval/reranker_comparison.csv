@@ -1,0 +1,56 @@
+eval_id,category,query,expected_law,expected_section,system4_top1,system5_top1,system4_rank,system5_rank,system4_hit1,system5_hit1,system4_hit3,system5_hit3,system4_mrr,system5_mrr,mrr_change,status
+EV0536,BNS_STANDARD,"What is the legal provision regarding short title, commencement and application?",BNS,1(5),BNS:1(3),BNS:1(3),4,4,0,0,0,0,0.25,0.25,0.0,UNCHANGED
+EV0612,BNS_STANDARD,What is the legal provision regarding when right of private defence of body extends to causing death?,BNS,38,BNS:39,BNS:39,2,2,0,0,1,1,0.5,0.5,0.0,UNCHANGED
+EV0614,BNS_STANDARD,What is the legal provision regarding commencement and continuance of right of private defence of body?,BNS,40,BNS:40,BNS:40,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0643,BNS_STANDARD,What is the legal provision regarding sexual intercourse by a person in authority?,BNS,68,BNS:68,BNS:68,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0645,BNS_STANDARD,What is the legal provision regarding punishment for repeat offenders?,BNS,71,BNS:71,BNS:71,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0675,BNS_STANDARD,What is the legal provision regarding punishment for murder?,BNS,103,BNS:103,BNS:103,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0707,BNS_STANDARD,What is the legal provision regarding assault or criminal force in attempt to commit theft of property carried by a person?,BNS,134,BNS:134,BNS:134,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0749,BNS_STANDARD,What is the legal provision regarding illegal payments in connection with an election?,BNS,176,BNS:176,BNS:176,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0762,BNS_STANDARD,What is the legal provision regarding unlawfully taking coining instrument from mint?,BNS,188,BNS:188,BNS:188,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0834,BNS_STANDARD,What is the legal provision regarding offering gift or restoration of property in consideration of screening offender?,BNS,251,BNS:251,BNS:251,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0890,BNS_STANDARD,What is the legal provision regarding theft by clerk or servant of property in possession of master?,BNS,306,BNS:306,BNS:306,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0921,BNS_STANDARD,What is the legal provision regarding cheating?,BNS,318(4),BNS:318(3),BNS:318(3),2,2,0,0,1,1,0.5,0.5,0.0,UNCHANGED
+EV0945,BNS_STANDARD,What is the legal provision regarding forgery?,BNS,336(2),BNS:336(1),BNS:336(1),3,3,0,0,1,1,0.3333,0.3333,0.0,UNCHANGED
+EV0947,BNS_STANDARD,"What is the legal provision regarding orgery of record of Court or of public register, etc?",BNS,337,BNS:337,BNS:337,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0978,BNS_STANDARD,"What is the legal provision regarding mischief by injury, inundation, or explosive substance, etc?",BNS,326(b),BNS:326(g),BNS:326(g),5,5,0,0,0,0,0.2,0.2,0.0,UNCHANGED
+EV1025,CONSOLIDATED,What is the legal provision regarding sentence of imprisonment for nonpayment of fine?,BNS,8,BNS:8,BNS:8,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1030,CONSOLIDATED,What is the legal provision regarding punishment for gang rape on woman under twelve years of age2?,BNS,70,BNS:65(2),BNS:65(2),2,2,0,0,1,1,0.5,0.5,0.0,UNCHANGED
+EV1052,CONSOLIDATED,What is the legal provision regarding kidnapping from India?,BNS,137,BNS:137,BNS:137,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1063,CONSOLIDATED,What is the legal provision regarding fraudulently or dishonestly diminishing weight or altering composition of Indian coin?,BNS,178(5),BNS:187,BNS:187,2,2,0,0,1,1,0.5,0.5,0.0,UNCHANGED
+EV1083,CONSOLIDATED,What is the legal provision regarding absconding to avoid service of summons or other proceeding?,BNS,206,BNS:208,BNS:208,,,0,0,0,0,0.0,0.0,0.0,UNCHANGED
+EV1085,CONSOLIDATED,"What is the legal provision regarding preventing service of summons or other proceeding, or preventing publication thereof?",BNS,207,BNS:208,BNS:208,,,0,0,0,0,0.0,0.0,0.0,UNCHANGED
+EV1094,CONSOLIDATED,What is the legal provision regarding punishment for dacoity?,BNS,310,BNS:310(5),BNS:310(5),3,2,0,0,1,1,0.3333,0.5,0.1667,UNCHANGED
+EV1095,CONSOLIDATED,What is the legal provision regarding punishment for belonging to gang of dacoits?,BNS,313,BNS:313,BNS:313,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1121,CONSOLIDATED,What is the legal provision regarding punishment for using a false property mark?,BNS,345(2),BNS:345(1),BNS:345(1),2,2,0,0,1,1,0.5,0.5,0.0,UNCHANGED
+EV1128,CONSOLIDATED,What is the legal provision regarding possession of Indian coin by person who knew it to be altered when he became possessed thereof?,BNS,180 Explanation,BNS:187,BNS:187,4,4,0,0,0,0,0.25,0.25,0.0,UNCHANGED
+EV0026,IPC_STANDARD,What is the legal provision regarding words referring to acts include illegal omissions?,IPC,32,IPC:32,IPC:32,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0028,IPC_STANDARD,What is the legal provision regarding acts done by several persons in furtherance of common intention?,IPC,34,IPC:34,IPC:34,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0031,IPC_STANDARD,What is the legal provision regarding cooperation by doing one of several acts constituting an offence?,IPC,37,IPC:37,IPC:37,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0033,IPC_STANDARD,What is the legal provision regarding “Voluntarily”?,IPC,39,IPC:39,IPC:39,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0090,IPC_STANDARD,What is the legal provision regarding when such right extends to causing any harm other than death?,IPC,104,IPC:101,IPC:101,2,2,0,0,1,1,0.5,0.5,0.0,UNCHANGED
+EV0096,IPC_STANDARD,What is the legal provision regarding punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment?,IPC,109,IPC:109,IPC:109,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0105,IPC_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with death or imprisonment for life?,IPC,118,IPC:118,IPC:118,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0115,IPC_STANDARD,What is the legal provision regarding sedition?,IPC,124A,IPC:124A,IPC:124A,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0143,IPC_STANDARD,"What is the legal provision regarding assaulting or obstructing public servant when suppressing riot, etc?",IPC,152,IPC:152,IPC:152,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0204,IPC_STANDARD,What is the legal provision regarding false personation for purpose of act or proceeding in suit or prosecution?,IPC,205,IPC:205,IPC:205,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0224,IPC_STANDARD,What is the legal provision regarding escape from confinement or custody negligently suffered by public servant?,IPC,223,IPC:223,IPC:223,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0229,IPC_STANDARD,What is the legal provision regarding violation of condition of remission of punishment?,IPC,227,IPC:227,IPC:227,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0239,IPC_STANDARD,"What is the legal provision regarding possession of instrument, or material for the purpose of using the same for counterfeiting coin?",IPC,235,IPC:235,IPC:235,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0251,IPC_STANDARD,What is the legal provision regarding altering appearance of Indian coin with intent that it shall pass as coin of different description?,IPC,249,IPC:249,IPC:249,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0282,IPC_STANDARD,What is the legal provision regarding negligent conduct with respect to fire or combustible matter?,IPC,285,IPC:285,IPC:285,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0430,IPC_STANDARD,What is the legal provision regarding dishonestly receiving stolen property?,IPC,411,IPC:412,IPC:412,2,2,0,0,1,1,0.5,0.5,0.0,UNCHANGED
+EV0433,IPC_STANDARD,What is the legal provision regarding assisting in concealment of stolen property?,IPC,414,IPC:414,IPC:414,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0518,IPC_STANDARD,What is the legal provision regarding enticing or taking away or detaining with criminal intent a married woman?,IPC,498,IPC:498,IPC:498,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0991,NO_EQUIVALENT,What is the legal provision regarding “India”?,IPC,18,IPC:212,IPC:18,2,1,0,1,1,1,0.5,1.0,0.5,FIXED
+EV0992,NO_EQUIVALENT,What is the legal provision regarding “Wrongful gain”?,IPC,23,IPC:23,IPC:23,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0993,NO_EQUIVALENT,"What is the legal provision regarding property in possession of wife, clerk or servant?",IPC,27,IPC:27,IPC:27,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0997,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Offenders sentenced to transportation how dealt with until transported?,IPC,58,IPC:58,IPC:58,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV0998,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Transportation instead of imprisonment?,IPC,59,IPC:59,IPC:59,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1000,NO_EQUIVALENT,"What is the legal provision regarding (Repealed) Forfeiture of property in respect of offenders punishable with death, transportation or imprisonment?",IPC,62,IPC:62,IPC:62,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1001,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Application of foregoing sections to the Indian Marine Service?,IPC,138A,IPC:138A,IPC:138A,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1002,NO_EQUIVALENT,What is the legal provision regarding unlawful return from transportation?,IPC,226,IPC:226,IPC:226,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1007,NO_EQUIVALENT,What is the legal provision regarding being in possession of false weight or measure?,IPC,266,IPC:266,IPC:266,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1008,NO_EQUIVALENT,What is the legal provision regarding making or selling false weight or measure?,IPC,267,IPC:267,IPC:267,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1012,NO_EQUIVALENT,What is the legal provision regarding repeal?,IPC,478,IPC:478,IPC:478,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED
+EV1014,NO_EQUIVALENT,What is the legal provision regarding adultery?,IPC,497,IPC:497,IPC:497,1,1,1,1,1,1,1.0,1.0,0.0,UNCHANGED

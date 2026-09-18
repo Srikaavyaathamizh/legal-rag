@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Legal RAG Assistant</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="app">
+
+    <!-- ================= HEADER ================= -->
+
+    <header class="header">
+
+        <div class="brand">
+
+            <div class="logo">
+                ⚖
+            </div>
+
+            <div>
+                <h1>Legal RAG Assistant</h1>
+                <p>IPC & BNS Legal Research Assistant</p>
+            </div>
+
+        </div>
+
+        <div class="status">
+
+            <span class="status-dot"></span>
+
+            <span>API Online</span>
+
+        </div>
+
+    </header>
+
+
+    <!-- ================= MAIN ================= -->
+
+    <main class="main">
+
+        <!-- Welcome -->
+
+        <section id="welcome" class="welcome">
+
+            <div class="welcome-icon">
+                ⚖
+            </div>
+
+            <h2>How can I help you?</h2>
+
+            <p>
+                Ask questions about Indian criminal law.
+                The system retrieves relevant IPC/BNS provisions
+                and provides grounded answers with sources.
+            </p>
+
+
+            <div class="suggestions">
+
+                <button onclick="useSuggestion(
+                    'What is the punishment for wrongful restraint?'
+                )">
+                    <span>⚖️</span>
+                    Punishment for wrongful restraint
+                </button>
+
+                <button onclick="useSuggestion(
+                    'What provision covers causing death by negligence?'
+                )">
+                    <span>📚</span>
+                    Death by negligence
+                </button>
+
+                <button onclick="useSuggestion(
+                    'What is the BNS equivalent of IPC Section 341?'
+                )">
+                    <span>🔄</span>
+                    IPC to BNS equivalent
+                </button>
+
+                <button onclick="useSuggestion(
+                    'What is the punishment for wrongful confinement?'
+                )">
+                    <span>🔎</span>
+                    Wrongful confinement
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= CHAT ================= -->
+
+        <section id="chat" class="chat hidden">
+
+            <div id="messages" class="messages"></div>
+
+        </section>
+
+    </main>
+
+
+    <!-- ================= INPUT AREA ================= -->
+
+    <footer class="input-area">
+
+        <div class="input-wrapper">
+
+            <div class="date-box">
+
+                <label for="incidentDate">
+                    Incident date
+                </label>
+
+                <input
+                    type="date"
+                    id="incidentDate"
+                >
+
+            </div>
+
+
+            <div class="question-box">
+
+                <textarea
+                    id="question"
+                    placeholder="Ask a legal question..."
+                    rows="1"
+                    onkeydown="handleKeyDown(event)"
+                ></textarea>
+
+            </div>
+
+
+            <button
+                id="sendButton"
+                class="send-button"
+                onclick="sendQuestion()"
+                title="Send"
+            >
+                ➤
+            </button>
+
+        </div>
+
+
+        <div class="input-hint">
+
+            Press <strong>Enter</strong> to send ·
+            <strong>Shift + Enter</strong> for a new line
+
+        </div>
+
+
+        <div class="footer-note">
+
+            ⚠️ This system provides legal information for research
+            purposes and does not constitute legal advice.
+
+        </div>
+
+    </footer>
+
+</div>
+
+
+<script src="app.js"></script>
+
+</body>
+</html>

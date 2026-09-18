@@ -1,0 +1,331 @@
+eval_id,category,query,expected_law,expected_section,depth,bm25_rank,semantic_rank,bm25_found,semantic_found,union_found,both_found
+EV0541,BNS_STANDARD,What is the legal provision regarding dishonesty?,BNS,2(7),5,1,1,1,1,1,1
+EV0541,BNS_STANDARD,What is the legal provision regarding dishonesty?,BNS,2(7),10,1,1,1,1,1,1
+EV0541,BNS_STANDARD,What is the legal provision regarding dishonesty?,BNS,2(7),20,1,1,1,1,1,1
+EV0541,BNS_STANDARD,What is the legal provision regarding dishonesty?,BNS,2(7),30,1,1,1,1,1,1
+EV0541,BNS_STANDARD,What is the legal provision regarding dishonesty?,BNS,2(7),50,1,1,1,1,1,1
+EV0541,BNS_STANDARD,What is the legal provision regarding dishonesty?,BNS,2(7),100,1,1,1,1,1,1
+EV0596,BNS_STANDARD,What is the legal provision regarding act of a person of unsound mind?,BNS,22,5,1,1,1,1,1,1
+EV0596,BNS_STANDARD,What is the legal provision regarding act of a person of unsound mind?,BNS,22,10,1,1,1,1,1,1
+EV0596,BNS_STANDARD,What is the legal provision regarding act of a person of unsound mind?,BNS,22,20,1,1,1,1,1,1
+EV0596,BNS_STANDARD,What is the legal provision regarding act of a person of unsound mind?,BNS,22,30,1,1,1,1,1,1
+EV0596,BNS_STANDARD,What is the legal provision regarding act of a person of unsound mind?,BNS,22,50,1,1,1,1,1,1
+EV0596,BNS_STANDARD,What is the legal provision regarding act of a person of unsound mind?,BNS,22,100,1,1,1,1,1,1
+EV0600,BNS_STANDARD,"What is the legal provision regarding act not intended to cause death, done by consent in good faith for person's benefit?",BNS,26,5,1,1,1,1,1,1
+EV0600,BNS_STANDARD,"What is the legal provision regarding act not intended to cause death, done by consent in good faith for person's benefit?",BNS,26,10,1,1,1,1,1,1
+EV0600,BNS_STANDARD,"What is the legal provision regarding act not intended to cause death, done by consent in good faith for person's benefit?",BNS,26,20,1,1,1,1,1,1
+EV0600,BNS_STANDARD,"What is the legal provision regarding act not intended to cause death, done by consent in good faith for person's benefit?",BNS,26,30,1,1,1,1,1,1
+EV0600,BNS_STANDARD,"What is the legal provision regarding act not intended to cause death, done by consent in good faith for person's benefit?",BNS,26,50,1,1,1,1,1,1
+EV0600,BNS_STANDARD,"What is the legal provision regarding act not intended to cause death, done by consent in good faith for person's benefit?",BNS,26,100,1,1,1,1,1,1
+EV0603,BNS_STANDARD,What is the legal provision regarding exclusion of acts which are offences independently of harm caused?,BNS,29,5,1,1,1,1,1,1
+EV0603,BNS_STANDARD,What is the legal provision regarding exclusion of acts which are offences independently of harm caused?,BNS,29,10,1,1,1,1,1,1
+EV0603,BNS_STANDARD,What is the legal provision regarding exclusion of acts which are offences independently of harm caused?,BNS,29,20,1,1,1,1,1,1
+EV0603,BNS_STANDARD,What is the legal provision regarding exclusion of acts which are offences independently of harm caused?,BNS,29,30,1,1,1,1,1,1
+EV0603,BNS_STANDARD,What is the legal provision regarding exclusion of acts which are offences independently of harm caused?,BNS,29,50,1,1,1,1,1,1
+EV0603,BNS_STANDARD,What is the legal provision regarding exclusion of acts which are offences independently of harm caused?,BNS,29,100,1,1,1,1,1,1
+EV0632,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with death or imprisonment for life?,BNS,58,5,1,2,1,1,1,1
+EV0632,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with death or imprisonment for life?,BNS,58,10,1,2,1,1,1,1
+EV0632,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with death or imprisonment for life?,BNS,58,20,1,2,1,1,1,1
+EV0632,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with death or imprisonment for life?,BNS,58,30,1,2,1,1,1,1
+EV0632,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with death or imprisonment for life?,BNS,58,50,1,2,1,1,1,1
+EV0632,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with death or imprisonment for life?,BNS,58,100,1,2,1,1,1,1
+EV0634,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with imprisonment?,BNS,60,5,1,1,1,1,1,1
+EV0634,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with imprisonment?,BNS,60,10,1,1,1,1,1,1
+EV0634,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with imprisonment?,BNS,60,20,1,1,1,1,1,1
+EV0634,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with imprisonment?,BNS,60,30,1,1,1,1,1,1
+EV0634,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with imprisonment?,BNS,60,50,1,1,1,1,1,1
+EV0634,BNS_STANDARD,What is the legal provision regarding concealing design to commit offence punishable with imprisonment?,BNS,60,100,1,1,1,1,1,1
+EV0669,BNS_STANDARD,What is the legal provision regarding kidnapping or abducting child under ten years with intent to steal from its person?,BNS,97,5,1,1,1,1,1,1
+EV0669,BNS_STANDARD,What is the legal provision regarding kidnapping or abducting child under ten years with intent to steal from its person?,BNS,97,10,1,1,1,1,1,1
+EV0669,BNS_STANDARD,What is the legal provision regarding kidnapping or abducting child under ten years with intent to steal from its person?,BNS,97,20,1,1,1,1,1,1
+EV0669,BNS_STANDARD,What is the legal provision regarding kidnapping or abducting child under ten years with intent to steal from its person?,BNS,97,30,1,1,1,1,1,1
+EV0669,BNS_STANDARD,What is the legal provision regarding kidnapping or abducting child under ten years with intent to steal from its person?,BNS,97,50,1,1,1,1,1,1
+EV0669,BNS_STANDARD,What is the legal provision regarding kidnapping or abducting child under ten years with intent to steal from its person?,BNS,97,100,1,1,1,1,1,1
+EV0671,BNS_STANDARD,"What is the legal provision regarding buying child for purposes of prostitution, etc?",BNS,99,5,1,1,1,1,1,1
+EV0671,BNS_STANDARD,"What is the legal provision regarding buying child for purposes of prostitution, etc?",BNS,99,10,1,1,1,1,1,1
+EV0671,BNS_STANDARD,"What is the legal provision regarding buying child for purposes of prostitution, etc?",BNS,99,20,1,1,1,1,1,1
+EV0671,BNS_STANDARD,"What is the legal provision regarding buying child for purposes of prostitution, etc?",BNS,99,30,1,1,1,1,1,1
+EV0671,BNS_STANDARD,"What is the legal provision regarding buying child for purposes of prostitution, etc?",BNS,99,50,1,1,1,1,1,1
+EV0671,BNS_STANDARD,"What is the legal provision regarding buying child for purposes of prostitution, etc?",BNS,99,100,1,1,1,1,1,1
+EV0707,BNS_STANDARD,What is the legal provision regarding assault or criminal force in attempt to commit theft of property carried by a person?,BNS,134,5,1,1,1,1,1,1
+EV0707,BNS_STANDARD,What is the legal provision regarding assault or criminal force in attempt to commit theft of property carried by a person?,BNS,134,10,1,1,1,1,1,1
+EV0707,BNS_STANDARD,What is the legal provision regarding assault or criminal force in attempt to commit theft of property carried by a person?,BNS,134,20,1,1,1,1,1,1
+EV0707,BNS_STANDARD,What is the legal provision regarding assault or criminal force in attempt to commit theft of property carried by a person?,BNS,134,30,1,1,1,1,1,1
+EV0707,BNS_STANDARD,What is the legal provision regarding assault or criminal force in attempt to commit theft of property carried by a person?,BNS,134,50,1,1,1,1,1,1
+EV0707,BNS_STANDARD,What is the legal provision regarding assault or criminal force in attempt to commit theft of property carried by a person?,BNS,134,100,1,1,1,1,1,1
+EV0739,BNS_STANDARD,What is the legal provision regarding harbouring deserter?,BNS,164,5,1,1,1,1,1,1
+EV0739,BNS_STANDARD,What is the legal provision regarding harbouring deserter?,BNS,164,10,1,1,1,1,1,1
+EV0739,BNS_STANDARD,What is the legal provision regarding harbouring deserter?,BNS,164,20,1,1,1,1,1,1
+EV0739,BNS_STANDARD,What is the legal provision regarding harbouring deserter?,BNS,164,30,1,1,1,1,1,1
+EV0739,BNS_STANDARD,What is the legal provision regarding harbouring deserter?,BNS,164,50,1,1,1,1,1,1
+EV0739,BNS_STANDARD,What is the legal provision regarding harbouring deserter?,BNS,164,100,1,1,1,1,1,1
+EV0741,BNS_STANDARD,"What is the legal provision regarding abetment of act of insubordination by soldier, sailor or airman?",BNS,166,5,1,1,1,1,1,1
+EV0741,BNS_STANDARD,"What is the legal provision regarding abetment of act of insubordination by soldier, sailor or airman?",BNS,166,10,1,1,1,1,1,1
+EV0741,BNS_STANDARD,"What is the legal provision regarding abetment of act of insubordination by soldier, sailor or airman?",BNS,166,20,1,1,1,1,1,1
+EV0741,BNS_STANDARD,"What is the legal provision regarding abetment of act of insubordination by soldier, sailor or airman?",BNS,166,30,1,1,1,1,1,1
+EV0741,BNS_STANDARD,"What is the legal provision regarding abetment of act of insubordination by soldier, sailor or airman?",BNS,166,50,1,1,1,1,1,1
+EV0741,BNS_STANDARD,"What is the legal provision regarding abetment of act of insubordination by soldier, sailor or airman?",BNS,166,100,1,1,1,1,1,1
+EV0774,BNS_STANDARD,What is the legal provision regarding wantonly giving provocation with intent to cause riot: if rioting be committed; if not committed?,BNS,192,5,1,1,1,1,1,1
+EV0774,BNS_STANDARD,What is the legal provision regarding wantonly giving provocation with intent to cause riot: if rioting be committed; if not committed?,BNS,192,10,1,1,1,1,1,1
+EV0774,BNS_STANDARD,What is the legal provision regarding wantonly giving provocation with intent to cause riot: if rioting be committed; if not committed?,BNS,192,20,1,1,1,1,1,1
+EV0774,BNS_STANDARD,What is the legal provision regarding wantonly giving provocation with intent to cause riot: if rioting be committed; if not committed?,BNS,192,30,1,1,1,1,1,1
+EV0774,BNS_STANDARD,What is the legal provision regarding wantonly giving provocation with intent to cause riot: if rioting be committed; if not committed?,BNS,192,50,1,1,1,1,1,1
+EV0774,BNS_STANDARD,What is the legal provision regarding wantonly giving provocation with intent to cause riot: if rioting be committed; if not committed?,BNS,192,100,1,1,1,1,1,1
+EV0798,BNS_STANDARD,What is the legal provision regarding refusing to sign statement?,BNS,215,5,1,1,1,1,1,1
+EV0798,BNS_STANDARD,What is the legal provision regarding refusing to sign statement?,BNS,215,10,1,1,1,1,1,1
+EV0798,BNS_STANDARD,What is the legal provision regarding refusing to sign statement?,BNS,215,20,1,1,1,1,1,1
+EV0798,BNS_STANDARD,What is the legal provision regarding refusing to sign statement?,BNS,215,30,1,1,1,1,1,1
+EV0798,BNS_STANDARD,What is the legal provision regarding refusing to sign statement?,BNS,215,50,1,1,1,1,1,1
+EV0798,BNS_STANDARD,What is the legal provision regarding refusing to sign statement?,BNS,215,100,1,1,1,1,1,1
+EV0811,BNS_STANDARD,What is the legal provision regarding fabricating false evidence?,BNS,228,5,2,1,1,1,1,1
+EV0811,BNS_STANDARD,What is the legal provision regarding fabricating false evidence?,BNS,228,10,2,1,1,1,1,1
+EV0811,BNS_STANDARD,What is the legal provision regarding fabricating false evidence?,BNS,228,20,2,1,1,1,1,1
+EV0811,BNS_STANDARD,What is the legal provision regarding fabricating false evidence?,BNS,228,30,2,1,1,1,1,1
+EV0811,BNS_STANDARD,What is the legal provision regarding fabricating false evidence?,BNS,228,50,2,1,1,1,1,1
+EV0811,BNS_STANDARD,What is the legal provision regarding fabricating false evidence?,BNS,228,100,2,1,1,1,1,1
+EV0883,BNS_STANDARD,What is the legal provision regarding disturbing religious assembly?,BNS,300,5,1,1,1,1,1,1
+EV0883,BNS_STANDARD,What is the legal provision regarding disturbing religious assembly?,BNS,300,10,1,1,1,1,1,1
+EV0883,BNS_STANDARD,What is the legal provision regarding disturbing religious assembly?,BNS,300,20,1,1,1,1,1,1
+EV0883,BNS_STANDARD,What is the legal provision regarding disturbing religious assembly?,BNS,300,30,1,1,1,1,1,1
+EV0883,BNS_STANDARD,What is the legal provision regarding disturbing religious assembly?,BNS,300,50,1,1,1,1,1,1
+EV0883,BNS_STANDARD,What is the legal provision regarding disturbing religious assembly?,BNS,300,100,1,1,1,1,1,1
+EV1020,CONSOLIDATED,What is the legal provision regarding “Public servant”?,BNS,2(28),5,6,1,0,1,1,0
+EV1020,CONSOLIDATED,What is the legal provision regarding “Public servant”?,BNS,2(28),10,6,1,1,1,1,1
+EV1020,CONSOLIDATED,What is the legal provision regarding “Public servant”?,BNS,2(28),20,6,1,1,1,1,1
+EV1020,CONSOLIDATED,What is the legal provision regarding “Public servant”?,BNS,2(28),30,6,1,1,1,1,1
+EV1020,CONSOLIDATED,What is the legal provision regarding “Public servant”?,BNS,2(28),50,6,1,1,1,1,1
+EV1020,CONSOLIDATED,What is the legal provision regarding “Public servant”?,BNS,2(28),100,6,1,1,1,1,1
+EV1023,CONSOLIDATED,What is the legal provision regarding definition of “appropriate Government”?,BNS,5,5,1,2,1,1,1,1
+EV1023,CONSOLIDATED,What is the legal provision regarding definition of “appropriate Government”?,BNS,5,10,1,2,1,1,1,1
+EV1023,CONSOLIDATED,What is the legal provision regarding definition of “appropriate Government”?,BNS,5,20,1,2,1,1,1,1
+EV1023,CONSOLIDATED,What is the legal provision regarding definition of “appropriate Government”?,BNS,5,30,1,2,1,1,1,1
+EV1023,CONSOLIDATED,What is the legal provision regarding definition of “appropriate Government”?,BNS,5,50,1,2,1,1,1,1
+EV1023,CONSOLIDATED,What is the legal provision regarding definition of “appropriate Government”?,BNS,5,100,1,2,1,1,1,1
+EV1033,CONSOLIDATED,"What is the legal provision regarding voluntarily causing hurt to extort confession, or to compel restoration of property?",BNS,120,5,1,1,1,1,1,1
+EV1033,CONSOLIDATED,"What is the legal provision regarding voluntarily causing hurt to extort confession, or to compel restoration of property?",BNS,120,10,1,1,1,1,1,1
+EV1033,CONSOLIDATED,"What is the legal provision regarding voluntarily causing hurt to extort confession, or to compel restoration of property?",BNS,120,20,1,1,1,1,1,1
+EV1033,CONSOLIDATED,"What is the legal provision regarding voluntarily causing hurt to extort confession, or to compel restoration of property?",BNS,120,30,1,1,1,1,1,1
+EV1033,CONSOLIDATED,"What is the legal provision regarding voluntarily causing hurt to extort confession, or to compel restoration of property?",BNS,120,50,1,1,1,1,1,1
+EV1033,CONSOLIDATED,"What is the legal provision regarding voluntarily causing hurt to extort confession, or to compel restoration of property?",BNS,120,100,1,1,1,1,1,1
+EV1043,CONSOLIDATED,What is the legal provision regarding punishment for wrongful restraint?,BNS,127,5,35,7,0,0,0,0
+EV1043,CONSOLIDATED,What is the legal provision regarding punishment for wrongful restraint?,BNS,127,10,35,7,0,1,1,0
+EV1043,CONSOLIDATED,What is the legal provision regarding punishment for wrongful restraint?,BNS,127,20,35,7,0,1,1,0
+EV1043,CONSOLIDATED,What is the legal provision regarding punishment for wrongful restraint?,BNS,127,30,35,7,0,1,1,0
+EV1043,CONSOLIDATED,What is the legal provision regarding punishment for wrongful restraint?,BNS,127,50,35,7,1,1,1,1
+EV1043,CONSOLIDATED,What is the legal provision regarding punishment for wrongful restraint?,BNS,127,100,35,7,1,1,1,1
+EV1048,CONSOLIDATED,What is the legal provision regarding wrongful confinement in secret?,BNS,127,5,4,1,1,1,1,1
+EV1048,CONSOLIDATED,What is the legal provision regarding wrongful confinement in secret?,BNS,127,10,4,1,1,1,1,1
+EV1048,CONSOLIDATED,What is the legal provision regarding wrongful confinement in secret?,BNS,127,20,4,1,1,1,1,1
+EV1048,CONSOLIDATED,What is the legal provision regarding wrongful confinement in secret?,BNS,127,30,4,1,1,1,1,1
+EV1048,CONSOLIDATED,What is the legal provision regarding wrongful confinement in secret?,BNS,127,50,4,1,1,1,1,1
+EV1048,CONSOLIDATED,What is the legal provision regarding wrongful confinement in secret?,BNS,127,100,4,1,1,1,1,1
+EV1068,CONSOLIDATED,"What is the legal provision regarding delivery of coin, possessed with knowledge that it is counterfeit?",BNS,179,5,17,1,0,1,1,0
+EV1068,CONSOLIDATED,"What is the legal provision regarding delivery of coin, possessed with knowledge that it is counterfeit?",BNS,179,10,17,1,0,1,1,0
+EV1068,CONSOLIDATED,"What is the legal provision regarding delivery of coin, possessed with knowledge that it is counterfeit?",BNS,179,20,17,1,1,1,1,1
+EV1068,CONSOLIDATED,"What is the legal provision regarding delivery of coin, possessed with knowledge that it is counterfeit?",BNS,179,30,17,1,1,1,1,1
+EV1068,CONSOLIDATED,"What is the legal provision regarding delivery of coin, possessed with knowledge that it is counterfeit?",BNS,179,50,17,1,1,1,1,1
+EV1068,CONSOLIDATED,"What is the legal provision regarding delivery of coin, possessed with knowledge that it is counterfeit?",BNS,179,100,17,1,1,1,1,1
+EV1082,CONSOLIDATED,What is the legal provision regarding making or possessing instruments or materials for forging or counterfeiting currencynotes or banknotes?,BNS,181,5,1,1,1,1,1,1
+EV1082,CONSOLIDATED,What is the legal provision regarding making or possessing instruments or materials for forging or counterfeiting currencynotes or banknotes?,BNS,181,10,1,1,1,1,1,1
+EV1082,CONSOLIDATED,What is the legal provision regarding making or possessing instruments or materials for forging or counterfeiting currencynotes or banknotes?,BNS,181,20,1,1,1,1,1,1
+EV1082,CONSOLIDATED,What is the legal provision regarding making or possessing instruments or materials for forging or counterfeiting currencynotes or banknotes?,BNS,181,30,1,1,1,1,1,1
+EV1082,CONSOLIDATED,What is the legal provision regarding making or possessing instruments or materials for forging or counterfeiting currencynotes or banknotes?,BNS,181,50,1,1,1,1,1,1
+EV1082,CONSOLIDATED,What is the legal provision regarding making or possessing instruments or materials for forging or counterfeiting currencynotes or banknotes?,BNS,181,100,1,1,1,1,1,1
+EV1090,CONSOLIDATED,What is the legal provision regarding punishment for robbery?,BNS,309,5,8,3,0,1,1,0
+EV1090,CONSOLIDATED,What is the legal provision regarding punishment for robbery?,BNS,309,10,8,3,1,1,1,1
+EV1090,CONSOLIDATED,What is the legal provision regarding punishment for robbery?,BNS,309,20,8,3,1,1,1,1
+EV1090,CONSOLIDATED,What is the legal provision regarding punishment for robbery?,BNS,309,30,8,3,1,1,1,1
+EV1090,CONSOLIDATED,What is the legal provision regarding punishment for robbery?,BNS,309,50,8,3,1,1,1,1
+EV1090,CONSOLIDATED,What is the legal provision regarding punishment for robbery?,BNS,309,100,8,3,1,1,1,1
+EV1091,CONSOLIDATED,What is the legal provision regarding attempt to commit robbery?,BNS,309,5,7,2,0,1,1,0
+EV1091,CONSOLIDATED,What is the legal provision regarding attempt to commit robbery?,BNS,309,10,7,2,1,1,1,1
+EV1091,CONSOLIDATED,What is the legal provision regarding attempt to commit robbery?,BNS,309,20,7,2,1,1,1,1
+EV1091,CONSOLIDATED,What is the legal provision regarding attempt to commit robbery?,BNS,309,30,7,2,1,1,1,1
+EV1091,CONSOLIDATED,What is the legal provision regarding attempt to commit robbery?,BNS,309,50,7,2,1,1,1,1
+EV1091,CONSOLIDATED,What is the legal provision regarding attempt to commit robbery?,BNS,309,100,7,2,1,1,1,1
+EV1118,CONSOLIDATED,What is the legal provision regarding forged document?,BNS,340,5,1,1,1,1,1,1
+EV1118,CONSOLIDATED,What is the legal provision regarding forged document?,BNS,340,10,1,1,1,1,1,1
+EV1118,CONSOLIDATED,What is the legal provision regarding forged document?,BNS,340,20,1,1,1,1,1,1
+EV1118,CONSOLIDATED,What is the legal provision regarding forged document?,BNS,340,30,1,1,1,1,1,1
+EV1118,CONSOLIDATED,What is the legal provision regarding forged document?,BNS,340,50,1,1,1,1,1,1
+EV1118,CONSOLIDATED,What is the legal provision regarding forged document?,BNS,340,100,1,1,1,1,1,1
+EV0026,IPC_STANDARD,What is the legal provision regarding words referring to acts include illegal omissions?,IPC,32,5,1,1,1,1,1,1
+EV0026,IPC_STANDARD,What is the legal provision regarding words referring to acts include illegal omissions?,IPC,32,10,1,1,1,1,1,1
+EV0026,IPC_STANDARD,What is the legal provision regarding words referring to acts include illegal omissions?,IPC,32,20,1,1,1,1,1,1
+EV0026,IPC_STANDARD,What is the legal provision regarding words referring to acts include illegal omissions?,IPC,32,30,1,1,1,1,1,1
+EV0026,IPC_STANDARD,What is the legal provision regarding words referring to acts include illegal omissions?,IPC,32,50,1,1,1,1,1,1
+EV0026,IPC_STANDARD,What is the legal provision regarding words referring to acts include illegal omissions?,IPC,32,100,1,1,1,1,1,1
+EV0028,IPC_STANDARD,What is the legal provision regarding acts done by several persons in furtherance of common intention?,IPC,34,5,1,1,1,1,1,1
+EV0028,IPC_STANDARD,What is the legal provision regarding acts done by several persons in furtherance of common intention?,IPC,34,10,1,1,1,1,1,1
+EV0028,IPC_STANDARD,What is the legal provision regarding acts done by several persons in furtherance of common intention?,IPC,34,20,1,1,1,1,1,1
+EV0028,IPC_STANDARD,What is the legal provision regarding acts done by several persons in furtherance of common intention?,IPC,34,30,1,1,1,1,1,1
+EV0028,IPC_STANDARD,What is the legal provision regarding acts done by several persons in furtherance of common intention?,IPC,34,50,1,1,1,1,1,1
+EV0028,IPC_STANDARD,What is the legal provision regarding acts done by several persons in furtherance of common intention?,IPC,34,100,1,1,1,1,1,1
+EV0031,IPC_STANDARD,What is the legal provision regarding cooperation by doing one of several acts constituting an offence?,IPC,37,5,1,2,1,1,1,1
+EV0031,IPC_STANDARD,What is the legal provision regarding cooperation by doing one of several acts constituting an offence?,IPC,37,10,1,2,1,1,1,1
+EV0031,IPC_STANDARD,What is the legal provision regarding cooperation by doing one of several acts constituting an offence?,IPC,37,20,1,2,1,1,1,1
+EV0031,IPC_STANDARD,What is the legal provision regarding cooperation by doing one of several acts constituting an offence?,IPC,37,30,1,2,1,1,1,1
+EV0031,IPC_STANDARD,What is the legal provision regarding cooperation by doing one of several acts constituting an offence?,IPC,37,50,1,2,1,1,1,1
+EV0031,IPC_STANDARD,What is the legal provision regarding cooperation by doing one of several acts constituting an offence?,IPC,37,100,1,2,1,1,1,1
+EV0033,IPC_STANDARD,What is the legal provision regarding “Voluntarily”?,IPC,39,5,18,1,0,1,1,0
+EV0033,IPC_STANDARD,What is the legal provision regarding “Voluntarily”?,IPC,39,10,18,1,0,1,1,0
+EV0033,IPC_STANDARD,What is the legal provision regarding “Voluntarily”?,IPC,39,20,18,1,1,1,1,1
+EV0033,IPC_STANDARD,What is the legal provision regarding “Voluntarily”?,IPC,39,30,18,1,1,1,1,1
+EV0033,IPC_STANDARD,What is the legal provision regarding “Voluntarily”?,IPC,39,50,18,1,1,1,1,1
+EV0033,IPC_STANDARD,What is the legal provision regarding “Voluntarily”?,IPC,39,100,18,1,1,1,1,1
+EV0094,IPC_STANDARD,What is the legal provision regarding abettor?,IPC,108,5,10,4,0,1,1,0
+EV0094,IPC_STANDARD,What is the legal provision regarding abettor?,IPC,108,10,10,4,1,1,1,1
+EV0094,IPC_STANDARD,What is the legal provision regarding abettor?,IPC,108,20,10,4,1,1,1,1
+EV0094,IPC_STANDARD,What is the legal provision regarding abettor?,IPC,108,30,10,4,1,1,1,1
+EV0094,IPC_STANDARD,What is the legal provision regarding abettor?,IPC,108,50,10,4,1,1,1,1
+EV0094,IPC_STANDARD,What is the legal provision regarding abettor?,IPC,108,100,10,4,1,1,1,1
+EV0100,IPC_STANDARD,What is the legal provision regarding liability of abettor for an effect caused by the act abetted different from that intended by the abettor?,IPC,113,5,1,1,1,1,1,1
+EV0100,IPC_STANDARD,What is the legal provision regarding liability of abettor for an effect caused by the act abetted different from that intended by the abettor?,IPC,113,10,1,1,1,1,1,1
+EV0100,IPC_STANDARD,What is the legal provision regarding liability of abettor for an effect caused by the act abetted different from that intended by the abettor?,IPC,113,20,1,1,1,1,1,1
+EV0100,IPC_STANDARD,What is the legal provision regarding liability of abettor for an effect caused by the act abetted different from that intended by the abettor?,IPC,113,30,1,1,1,1,1,1
+EV0100,IPC_STANDARD,What is the legal provision regarding liability of abettor for an effect caused by the act abetted different from that intended by the abettor?,IPC,113,50,1,1,1,1,1,1
+EV0100,IPC_STANDARD,What is the legal provision regarding liability of abettor for an effect caused by the act abetted different from that intended by the abettor?,IPC,113,100,1,1,1,1,1,1
+EV0109,IPC_STANDARD,What is the legal provision regarding punishment of criminal conspiracy?,IPC,120B,5,1,1,1,1,1,1
+EV0109,IPC_STANDARD,What is the legal provision regarding punishment of criminal conspiracy?,IPC,120B,10,1,1,1,1,1,1
+EV0109,IPC_STANDARD,What is the legal provision regarding punishment of criminal conspiracy?,IPC,120B,20,1,1,1,1,1,1
+EV0109,IPC_STANDARD,What is the legal provision regarding punishment of criminal conspiracy?,IPC,120B,30,1,1,1,1,1,1
+EV0109,IPC_STANDARD,What is the legal provision regarding punishment of criminal conspiracy?,IPC,120B,50,1,1,1,1,1,1
+EV0109,IPC_STANDARD,What is the legal provision regarding punishment of criminal conspiracy?,IPC,120B,100,1,1,1,1,1,1
+EV0119,IPC_STANDARD,What is the legal provision regarding public servant voluntarily allowing prisoner of State or war to escape?,IPC,128,5,1,1,1,1,1,1
+EV0119,IPC_STANDARD,What is the legal provision regarding public servant voluntarily allowing prisoner of State or war to escape?,IPC,128,10,1,1,1,1,1,1
+EV0119,IPC_STANDARD,What is the legal provision regarding public servant voluntarily allowing prisoner of State or war to escape?,IPC,128,20,1,1,1,1,1,1
+EV0119,IPC_STANDARD,What is the legal provision regarding public servant voluntarily allowing prisoner of State or war to escape?,IPC,128,30,1,1,1,1,1,1
+EV0119,IPC_STANDARD,What is the legal provision regarding public servant voluntarily allowing prisoner of State or war to escape?,IPC,128,50,1,1,1,1,1,1
+EV0119,IPC_STANDARD,What is the legal provision regarding public servant voluntarily allowing prisoner of State or war to escape?,IPC,128,100,1,1,1,1,1,1
+EV0148,IPC_STANDARD,What is the legal provision regarding liability of person for whose benefit riot is committed?,IPC,155,5,2,1,1,1,1,1
+EV0148,IPC_STANDARD,What is the legal provision regarding liability of person for whose benefit riot is committed?,IPC,155,10,2,1,1,1,1,1
+EV0148,IPC_STANDARD,What is the legal provision regarding liability of person for whose benefit riot is committed?,IPC,155,20,2,1,1,1,1,1
+EV0148,IPC_STANDARD,What is the legal provision regarding liability of person for whose benefit riot is committed?,IPC,155,30,2,1,1,1,1,1
+EV0148,IPC_STANDARD,What is the legal provision regarding liability of person for whose benefit riot is committed?,IPC,155,50,2,1,1,1,1,1
+EV0148,IPC_STANDARD,What is the legal provision regarding liability of person for whose benefit riot is committed?,IPC,155,100,2,1,1,1,1,1
+EV0209,IPC_STANDARD,What is the legal provision regarding fraudulently obtaining decree for sum not due?,IPC,210,5,2,2,1,1,1,1
+EV0209,IPC_STANDARD,What is the legal provision regarding fraudulently obtaining decree for sum not due?,IPC,210,10,2,2,1,1,1,1
+EV0209,IPC_STANDARD,What is the legal provision regarding fraudulently obtaining decree for sum not due?,IPC,210,20,2,2,1,1,1,1
+EV0209,IPC_STANDARD,What is the legal provision regarding fraudulently obtaining decree for sum not due?,IPC,210,30,2,2,1,1,1,1
+EV0209,IPC_STANDARD,What is the legal provision regarding fraudulently obtaining decree for sum not due?,IPC,210,50,2,2,1,1,1,1
+EV0209,IPC_STANDARD,What is the legal provision regarding fraudulently obtaining decree for sum not due?,IPC,210,100,2,2,1,1,1,1
+EV0229,IPC_STANDARD,What is the legal provision regarding violation of condition of remission of punishment?,IPC,227,5,1,1,1,1,1,1
+EV0229,IPC_STANDARD,What is the legal provision regarding violation of condition of remission of punishment?,IPC,227,10,1,1,1,1,1,1
+EV0229,IPC_STANDARD,What is the legal provision regarding violation of condition of remission of punishment?,IPC,227,20,1,1,1,1,1,1
+EV0229,IPC_STANDARD,What is the legal provision regarding violation of condition of remission of punishment?,IPC,227,30,1,1,1,1,1,1
+EV0229,IPC_STANDARD,What is the legal provision regarding violation of condition of remission of punishment?,IPC,227,50,1,1,1,1,1,1
+EV0229,IPC_STANDARD,What is the legal provision regarding violation of condition of remission of punishment?,IPC,227,100,1,1,1,1,1,1
+EV0234,IPC_STANDARD,What is the legal provision regarding “Coin” defined?,IPC,230,5,1,5,1,1,1,1
+EV0234,IPC_STANDARD,What is the legal provision regarding “Coin” defined?,IPC,230,10,1,5,1,1,1,1
+EV0234,IPC_STANDARD,What is the legal provision regarding “Coin” defined?,IPC,230,20,1,5,1,1,1,1
+EV0234,IPC_STANDARD,What is the legal provision regarding “Coin” defined?,IPC,230,30,1,5,1,1,1,1
+EV0234,IPC_STANDARD,What is the legal provision regarding “Coin” defined?,IPC,230,50,1,5,1,1,1,1
+EV0234,IPC_STANDARD,What is the legal provision regarding “Coin” defined?,IPC,230,100,1,5,1,1,1,1
+EV0244,IPC_STANDARD,What is the legal provision regarding possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof?,IPC,242,5,2,1,1,1,1,1
+EV0244,IPC_STANDARD,What is the legal provision regarding possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof?,IPC,242,10,2,1,1,1,1,1
+EV0244,IPC_STANDARD,What is the legal provision regarding possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof?,IPC,242,20,2,1,1,1,1,1
+EV0244,IPC_STANDARD,What is the legal provision regarding possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof?,IPC,242,30,2,1,1,1,1,1
+EV0244,IPC_STANDARD,What is the legal provision regarding possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof?,IPC,242,50,2,1,1,1,1,1
+EV0244,IPC_STANDARD,What is the legal provision regarding possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof?,IPC,242,100,2,1,1,1,1,1
+EV0256,IPC_STANDARD,What is the legal provision regarding having possession of instrument or material for counterfeiting Government stamp?,IPC,256,5,1,1,1,1,1,1
+EV0256,IPC_STANDARD,What is the legal provision regarding having possession of instrument or material for counterfeiting Government stamp?,IPC,256,10,1,1,1,1,1,1
+EV0256,IPC_STANDARD,What is the legal provision regarding having possession of instrument or material for counterfeiting Government stamp?,IPC,256,20,1,1,1,1,1,1
+EV0256,IPC_STANDARD,What is the legal provision regarding having possession of instrument or material for counterfeiting Government stamp?,IPC,256,30,1,1,1,1,1,1
+EV0256,IPC_STANDARD,What is the legal provision regarding having possession of instrument or material for counterfeiting Government stamp?,IPC,256,50,1,1,1,1,1,1
+EV0256,IPC_STANDARD,What is the legal provision regarding having possession of instrument or material for counterfeiting Government stamp?,IPC,256,100,1,1,1,1,1,1
+EV0287,IPC_STANDARD,What is the legal provision regarding punishment for public nuisance in cases not otherwise provided for?,IPC,290,5,1,1,1,1,1,1
+EV0287,IPC_STANDARD,What is the legal provision regarding punishment for public nuisance in cases not otherwise provided for?,IPC,290,10,1,1,1,1,1,1
+EV0287,IPC_STANDARD,What is the legal provision regarding punishment for public nuisance in cases not otherwise provided for?,IPC,290,20,1,1,1,1,1,1
+EV0287,IPC_STANDARD,What is the legal provision regarding punishment for public nuisance in cases not otherwise provided for?,IPC,290,30,1,1,1,1,1,1
+EV0287,IPC_STANDARD,What is the legal provision regarding punishment for public nuisance in cases not otherwise provided for?,IPC,290,50,1,1,1,1,1,1
+EV0287,IPC_STANDARD,What is the legal provision regarding punishment for public nuisance in cases not otherwise provided for?,IPC,290,100,1,1,1,1,1,1
+EV0437,IPC_STANDARD,What is the legal provision regarding cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect?,IPC,418,5,1,1,1,1,1,1
+EV0437,IPC_STANDARD,What is the legal provision regarding cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect?,IPC,418,10,1,1,1,1,1,1
+EV0437,IPC_STANDARD,What is the legal provision regarding cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect?,IPC,418,20,1,1,1,1,1,1
+EV0437,IPC_STANDARD,What is the legal provision regarding cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect?,IPC,418,30,1,1,1,1,1,1
+EV0437,IPC_STANDARD,What is the legal provision regarding cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect?,IPC,418,50,1,1,1,1,1,1
+EV0437,IPC_STANDARD,What is the legal provision regarding cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect?,IPC,418,100,1,1,1,1,1,1
+EV0440,IPC_STANDARD,What is the legal provision regarding dishonest or fraudulent removal or concealment of property to prevent distribution among creditors?,IPC,421,5,1,1,1,1,1,1
+EV0440,IPC_STANDARD,What is the legal provision regarding dishonest or fraudulent removal or concealment of property to prevent distribution among creditors?,IPC,421,10,1,1,1,1,1,1
+EV0440,IPC_STANDARD,What is the legal provision regarding dishonest or fraudulent removal or concealment of property to prevent distribution among creditors?,IPC,421,20,1,1,1,1,1,1
+EV0440,IPC_STANDARD,What is the legal provision regarding dishonest or fraudulent removal or concealment of property to prevent distribution among creditors?,IPC,421,30,1,1,1,1,1,1
+EV0440,IPC_STANDARD,What is the legal provision regarding dishonest or fraudulent removal or concealment of property to prevent distribution among creditors?,IPC,421,50,1,1,1,1,1,1
+EV0440,IPC_STANDARD,What is the legal provision regarding dishonest or fraudulent removal or concealment of property to prevent distribution among creditors?,IPC,421,100,1,1,1,1,1,1
+EV0525,IPC_STANDARD,What is the legal provision regarding intentional insult with intent to provoke breach of the peace?,IPC,504,5,1,1,1,1,1,1
+EV0525,IPC_STANDARD,What is the legal provision regarding intentional insult with intent to provoke breach of the peace?,IPC,504,10,1,1,1,1,1,1
+EV0525,IPC_STANDARD,What is the legal provision regarding intentional insult with intent to provoke breach of the peace?,IPC,504,20,1,1,1,1,1,1
+EV0525,IPC_STANDARD,What is the legal provision regarding intentional insult with intent to provoke breach of the peace?,IPC,504,30,1,1,1,1,1,1
+EV0525,IPC_STANDARD,What is the legal provision regarding intentional insult with intent to provoke breach of the peace?,IPC,504,50,1,1,1,1,1,1
+EV0525,IPC_STANDARD,What is the legal provision regarding intentional insult with intent to provoke breach of the peace?,IPC,504,100,1,1,1,1,1,1
+EV0991,NO_EQUIVALENT,What is the legal provision regarding “India”?,IPC,18,5,25,1,0,1,1,0
+EV0991,NO_EQUIVALENT,What is the legal provision regarding “India”?,IPC,18,10,25,1,0,1,1,0
+EV0991,NO_EQUIVALENT,What is the legal provision regarding “India”?,IPC,18,20,25,1,0,1,1,0
+EV0991,NO_EQUIVALENT,What is the legal provision regarding “India”?,IPC,18,30,25,1,1,1,1,1
+EV0991,NO_EQUIVALENT,What is the legal provision regarding “India”?,IPC,18,50,25,1,1,1,1,1
+EV0991,NO_EQUIVALENT,What is the legal provision regarding “India”?,IPC,18,100,25,1,1,1,1,1
+EV0993,NO_EQUIVALENT,"What is the legal provision regarding property in possession of wife, clerk or servant?",IPC,27,5,1,1,1,1,1,1
+EV0993,NO_EQUIVALENT,"What is the legal provision regarding property in possession of wife, clerk or servant?",IPC,27,10,1,1,1,1,1,1
+EV0993,NO_EQUIVALENT,"What is the legal provision regarding property in possession of wife, clerk or servant?",IPC,27,20,1,1,1,1,1,1
+EV0993,NO_EQUIVALENT,"What is the legal provision regarding property in possession of wife, clerk or servant?",IPC,27,30,1,1,1,1,1,1
+EV0993,NO_EQUIVALENT,"What is the legal provision regarding property in possession of wife, clerk or servant?",IPC,27,50,1,1,1,1,1,1
+EV0993,NO_EQUIVALENT,"What is the legal provision regarding property in possession of wife, clerk or servant?",IPC,27,100,1,1,1,1,1,1
+EV0994,NO_EQUIVALENT,What is the legal provision regarding “Section”?,IPC,50,5,,1,0,1,1,0
+EV0994,NO_EQUIVALENT,What is the legal provision regarding “Section”?,IPC,50,10,,1,0,1,1,0
+EV0994,NO_EQUIVALENT,What is the legal provision regarding “Section”?,IPC,50,20,,1,0,1,1,0
+EV0994,NO_EQUIVALENT,What is the legal provision regarding “Section”?,IPC,50,30,,1,0,1,1,0
+EV0994,NO_EQUIVALENT,What is the legal provision regarding “Section”?,IPC,50,50,,1,0,1,1,0
+EV0994,NO_EQUIVALENT,What is the legal provision regarding “Section”?,IPC,50,100,,1,0,1,1,0
+EV0996,NO_EQUIVALENT,What is the legal provision regarding sentence of Europeans and Americans to penal servitude. Proviso as to sentence for term exceeding ten years but not for life?,IPC,56,5,1,1,1,1,1,1
+EV0996,NO_EQUIVALENT,What is the legal provision regarding sentence of Europeans and Americans to penal servitude. Proviso as to sentence for term exceeding ten years but not for life?,IPC,56,10,1,1,1,1,1,1
+EV0996,NO_EQUIVALENT,What is the legal provision regarding sentence of Europeans and Americans to penal servitude. Proviso as to sentence for term exceeding ten years but not for life?,IPC,56,20,1,1,1,1,1,1
+EV0996,NO_EQUIVALENT,What is the legal provision regarding sentence of Europeans and Americans to penal servitude. Proviso as to sentence for term exceeding ten years but not for life?,IPC,56,30,1,1,1,1,1,1
+EV0996,NO_EQUIVALENT,What is the legal provision regarding sentence of Europeans and Americans to penal servitude. Proviso as to sentence for term exceeding ten years but not for life?,IPC,56,50,1,1,1,1,1,1
+EV0996,NO_EQUIVALENT,What is the legal provision regarding sentence of Europeans and Americans to penal servitude. Proviso as to sentence for term exceeding ten years but not for life?,IPC,56,100,1,1,1,1,1,1
+EV0998,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Transportation instead of imprisonment?,IPC,59,5,1,2,1,1,1,1
+EV0998,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Transportation instead of imprisonment?,IPC,59,10,1,2,1,1,1,1
+EV0998,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Transportation instead of imprisonment?,IPC,59,20,1,2,1,1,1,1
+EV0998,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Transportation instead of imprisonment?,IPC,59,30,1,2,1,1,1,1
+EV0998,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Transportation instead of imprisonment?,IPC,59,50,1,2,1,1,1,1
+EV0998,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Transportation instead of imprisonment?,IPC,59,100,1,2,1,1,1,1
+EV1001,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Application of foregoing sections to the Indian Marine Service?,IPC,138A,5,1,1,1,1,1,1
+EV1001,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Application of foregoing sections to the Indian Marine Service?,IPC,138A,10,1,1,1,1,1,1
+EV1001,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Application of foregoing sections to the Indian Marine Service?,IPC,138A,20,1,1,1,1,1,1
+EV1001,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Application of foregoing sections to the Indian Marine Service?,IPC,138A,30,1,1,1,1,1,1
+EV1001,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Application of foregoing sections to the Indian Marine Service?,IPC,138A,50,1,1,1,1,1,1
+EV1001,NO_EQUIVALENT,What is the legal provision regarding (Repealed) Application of foregoing sections to the Indian Marine Service?,IPC,138A,100,1,1,1,1,1,1
+EV1004,NO_EQUIVALENT,"What is the legal provision regarding delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit?",IPC,241,5,1,3,1,1,1,1
+EV1004,NO_EQUIVALENT,"What is the legal provision regarding delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit?",IPC,241,10,1,3,1,1,1,1
+EV1004,NO_EQUIVALENT,"What is the legal provision regarding delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit?",IPC,241,20,1,3,1,1,1,1
+EV1004,NO_EQUIVALENT,"What is the legal provision regarding delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit?",IPC,241,30,1,3,1,1,1,1
+EV1004,NO_EQUIVALENT,"What is the legal provision regarding delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit?",IPC,241,50,1,3,1,1,1,1
+EV1004,NO_EQUIVALENT,"What is the legal provision regarding delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit?",IPC,241,100,1,3,1,1,1,1
+EV1006,NO_EQUIVALENT,What is the legal provision regarding fraudulent use of false weight or measure?,IPC,265,5,1,1,1,1,1,1
+EV1006,NO_EQUIVALENT,What is the legal provision regarding fraudulent use of false weight or measure?,IPC,265,10,1,1,1,1,1,1
+EV1006,NO_EQUIVALENT,What is the legal provision regarding fraudulent use of false weight or measure?,IPC,265,20,1,1,1,1,1,1
+EV1006,NO_EQUIVALENT,What is the legal provision regarding fraudulent use of false weight or measure?,IPC,265,30,1,1,1,1,1,1
+EV1006,NO_EQUIVALENT,What is the legal provision regarding fraudulent use of false weight or measure?,IPC,265,50,1,1,1,1,1,1
+EV1006,NO_EQUIVALENT,What is the legal provision regarding fraudulent use of false weight or measure?,IPC,265,100,1,1,1,1,1,1
+EV1007,NO_EQUIVALENT,What is the legal provision regarding being in possession of false weight or measure?,IPC,266,5,1,1,1,1,1,1
+EV1007,NO_EQUIVALENT,What is the legal provision regarding being in possession of false weight or measure?,IPC,266,10,1,1,1,1,1,1
+EV1007,NO_EQUIVALENT,What is the legal provision regarding being in possession of false weight or measure?,IPC,266,20,1,1,1,1,1,1
+EV1007,NO_EQUIVALENT,What is the legal provision regarding being in possession of false weight or measure?,IPC,266,30,1,1,1,1,1,1
+EV1007,NO_EQUIVALENT,What is the legal provision regarding being in possession of false weight or measure?,IPC,266,50,1,1,1,1,1,1
+EV1007,NO_EQUIVALENT,What is the legal provision regarding being in possession of false weight or measure?,IPC,266,100,1,1,1,1,1,1
+EV1008,NO_EQUIVALENT,What is the legal provision regarding making or selling false weight or measure?,IPC,267,5,1,1,1,1,1,1
+EV1008,NO_EQUIVALENT,What is the legal provision regarding making or selling false weight or measure?,IPC,267,10,1,1,1,1,1,1
+EV1008,NO_EQUIVALENT,What is the legal provision regarding making or selling false weight or measure?,IPC,267,20,1,1,1,1,1,1
+EV1008,NO_EQUIVALENT,What is the legal provision regarding making or selling false weight or measure?,IPC,267,30,1,1,1,1,1,1
+EV1008,NO_EQUIVALENT,What is the legal provision regarding making or selling false weight or measure?,IPC,267,50,1,1,1,1,1,1
+EV1008,NO_EQUIVALENT,What is the legal provision regarding making or selling false weight or measure?,IPC,267,100,1,1,1,1,1,1
+EV1009,NO_EQUIVALENT,What is the legal provision regarding thug?,IPC,310,5,1,1,1,1,1,1
+EV1009,NO_EQUIVALENT,What is the legal provision regarding thug?,IPC,310,10,1,1,1,1,1,1
+EV1009,NO_EQUIVALENT,What is the legal provision regarding thug?,IPC,310,20,1,1,1,1,1,1
+EV1009,NO_EQUIVALENT,What is the legal provision regarding thug?,IPC,310,30,1,1,1,1,1,1
+EV1009,NO_EQUIVALENT,What is the legal provision regarding thug?,IPC,310,50,1,1,1,1,1,1
+EV1009,NO_EQUIVALENT,What is the legal provision regarding thug?,IPC,310,100,1,1,1,1,1,1
+EV1014,NO_EQUIVALENT,What is the legal provision regarding adultery?,IPC,497,5,1,1,1,1,1,1
+EV1014,NO_EQUIVALENT,What is the legal provision regarding adultery?,IPC,497,10,1,1,1,1,1,1
+EV1014,NO_EQUIVALENT,What is the legal provision regarding adultery?,IPC,497,20,1,1,1,1,1,1
+EV1014,NO_EQUIVALENT,What is the legal provision regarding adultery?,IPC,497,30,1,1,1,1,1,1
+EV1014,NO_EQUIVALENT,What is the legal provision regarding adultery?,IPC,497,50,1,1,1,1,1,1
+EV1014,NO_EQUIVALENT,What is the legal provision regarding adultery?,IPC,497,100,1,1,1,1,1,1

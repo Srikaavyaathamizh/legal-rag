@@ -1,0 +1,15 @@
+# Core retrieval
+rank_bm25>=0.2.2
+sentence-transformers>=3.0.0
+qdrant-client>=1.9.0
+scikit-learn>=1.4.0        # only needed for eval/semantic_stub_sandbox.py (offline dev/testing stand-in)
+
+# LLM backends (Phase 7) — install only the ones you plan to use
+        # free tier
+groq>=0.11.0                # free tier
+
+# General
+python-dateutil>=2.9.0
+# //anthropic>=0.40.0          # paid
+# //google-genai>=0.3.0
+# //requests>=2.31.0           # used by the Ollama backend (free, local)

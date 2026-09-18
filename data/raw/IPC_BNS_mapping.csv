@@ -1,0 +1,564 @@
+﻿IPC_Section,IPC_Heading,BNS_Section,BNS_Heading
+1,Title and extent of operation of the Code,1,"Short title, commencement and application"
+2,Punishment of offences committed within India,1(3),"Short title, commencement and application"
+3,"Punishment of offences committed beyond, but which by law may be tried within, India",1(4),"Short title, commencement and application"
+4,Extension of Code to extraterritorial offences,1(5),"Short title, commencement and application"
+5,Certain laws not to be affected by this Act,1(6),"Short title, commencement and application"
+6,Definitions in the Code to be understood subject to exceptions,3,General explanations
+7,Sense of expression once explained,Repealed in BNS,Repealed in BNS
+8,Gender,2(10),“Gender”
+9,Number,2(22),“Number”
+10,"“Man”, “Woman”",2(19),“Man”
+11,“Person”,2(35),“Woman”
+12,“Public”,2(26),“Person”
+13,Repealed,2(27),“Public”
+14,“Servant of Government”,2(28),“Public servant”
+15,Repealed,Repealed in BNS,Repealed in BNS
+16,Repealed,Repealed in BNS,Repealed in BNS
+17,“Government”,2(12),“Government”
+18,“India”,Repealed in BNS,Repealed in BNS
+19,“Judge”,2(16),“Judge”
+20,“Court of Justice”,2(5),“Court”
+21,“Public servant”,2(28),“Public servant”
+22,“Movable property”,2(21),“Movable property”
+23,“Wrongful gain”,Repealed in BNS,Repealed in BNS
+24,Dishonesty,2(7),Dishonesty
+25,“Fraudulently”,2(9),“Fraudulently”
+26,“Reason to believe”,2(29),“Reason to believe”
+27,"Property in possession of wife, clerk or servant",Repealed in BNS,Repealed in BNS
+28,“Counterfeit”,2(4),“Counterfeit”
+29,“Document”,2(8),“Document”
+29A,“Electronic record”,2(39),Definitions
+30,“Valuable security”,2(31),“Valuable security”
+31,“A will”,2(34),“will”
+32,Words referring to acts include illegal omissions,2(1),“act”
+33,"“Act”, “Omission”",2(1),Definitions
+34,Acts done by several persons in furtherance of common intention,3(5),General Explanations
+35,When such an act is criminal by reason of its being done with a criminal knowledge or intention,3(6),General Explanations
+36,Effect caused partly by act and partly by omission,3(7),General Explanations
+37,Cooperation by doing one of several acts constituting an offence,3(8),General Explanations
+38,Persons concerned in criminal act may be guilty of different offences,3(9),General Explanations
+39,“Voluntarily”,2(33),“Voluntarily”
+40,“Offence”,2(24),“Offence”
+41,“Special law”,2(30),“Special law”
+42,“Local law”,2(18),“Local law”
+43,"“Illegal”, “Legally bound to do”",2(15),“Illegal”
+48,“Vessel”,2(32),“Vessel”
+49,"“Year”, “Month”",2(20),“month” and “year”
+50,“Section”,Repealed in BNS,Repealed in BNS
+51,“Oath”,2(23),“Oath”
+52,“Good faith”,2(11),“good faith”
+52A,“Harbour”,2(13),“harbour”
+53,Punishments,4,Punishments
+53A,Construction of reference to transportation,Repealed in BNS,Repealed in BNS
+54,Commutation of sentence of death,5,Commutation of sentence
+55,Commutation of sentence of imprisonment for life,5,Commutation of sentence
+55A,Definition of “appropriate Government”,5,Explanation to section 5
+56,Sentence of Europeans and Americans to penal servitude. Proviso as to sentence for term exceeding ten years but not for life,Repealed in BNS,Repealed in BNS
+57,Fractions of terms of punishment,6,Fractions of terms of punishment
+58,(Repealed) Offenders sentenced to transportation how dealt with until transported,Repealed in BNS,Repealed in BNS
+59,(Repealed) Transportation instead of imprisonment,Repealed in BNS,Repealed in BNS
+60,Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple,7,Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple
+61,(Repealed) Sentence of forfeiture of property,Repealed in BNS,Repealed in BNS
+62,"(Repealed) Forfeiture of property in respect of offenders punishable with death, transportation or imprisonment",Repealed in BNS,Repealed in BNS
+63,Amount of fine,8,"Amount of fine, liability in default of payment of fine, etc."
+64,Sentence of imprisonment for nonpayment of fine,8,"Amount of fine, liability in default of payment of fine, etc."
+65,"Limit to imprisonment for nonpayment of fine, when imprisonment and fine awardable",8(3),"Amount of fine, liability in default of payment of fine, etc."
+66,Description of imprisonment for nonpayment of fine,"8(4), (5)","Amount of fine, liability in default of payment of fine, etc."
+67,Imprisonment for nonpayment of fine when offence punishable with fine only,8(5),"Amount of fine, liability in default of payment of fine, etc."
+68,Imprisonment to terminate on payment of fine,8(6),"Amount of fine, liability in default of payment of fine, etc."
+69,Termination of imprisonment on payment of proportional part of fine,8(6),"Amount of fine, liability in default of payment of fine, etc."
+70,"Fine leviable within six years, or during imprisonment – Death not to discharge property from liability",8(7),"Amount of fine, liability in default of payment of fine, etc."
+71,Limit of punishment of offence made up of several offences,9,Limit of punishment of offence made up of several offences
+72,"Punishment of person guilty of one of several offences, the judgment stating that it is doubtful of which",10,"Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which"
+73,Solitary confinement,11,Solitary confinement
+74,Limit of solitary confinement,12,Limit of solitary confinement
+75,Enhanced punishment for certain offences under Chapter XII or Chapter XVII after previous conviction,13,Enhanced punishment for certain offences after previous conviction
+76,"Act done by a person bound, or by mistake of fact believing himself bound, by law",14,"Act done by a person bound, or by mistake of fact believing himself bound, by law"
+77,Act of Judge when acting judicially,15,Act of Judge when acting judicially
+78,Act done pursuant to the judgment or order of Court,16,Act done pursuant to judgment or order of Court
+79,"Act done by a person justified, or by mistake of fact believing himself justified, by law",17,"Act done by a person justified, or by mistake of fact believing himself justified, by law"
+80,Accident in doing a lawful act,18,Accident in doing a lawful act
+81,"Act likely to cause harm, but done without criminal intent, and to prevent other harm",19,"Act likely to cause harm, but done without criminal intent, and to prevent other harm"
+82,Act of a child under seven years of age,20,Act of a child under seven years of age
+83,Act of a child above seven and under twelve of immature understanding,21,Act of a child above seven and under twelve years of age of immature understanding
+84,Act of a person of unsound mind,22,Act of a person of unsound mind
+85,Offence requiring a particular intent or knowledge committed by one who is intoxicated,23,Offence requiring a particular intent or knowledge committed by one who is intoxicated
+86,Offence requiring a particular intent or knowledge committed by one who is intoxicated,24,Offence requiring a particular intent or knowledge committed by one who is intoxicated
+87,"Act not intended and not known to be likely to cause death or grievous hurt, done by consent",25,"Act not intended and not known to be likely to cause death or grievous hurt, done by consent"
+88,"Act not intended to cause death, done by consent in good faith for person's benefit",26,"Act not intended to cause death, done by consent in good faith for person's benefit"
+89,"Act done in good faith for benefit of child or insane person, by or by consent of guardian",27,"Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian"
+90,Consent known to be given under fear or misconception,28,Consent known to be given under fear or misconception
+91,Exclusion of acts which are offences independently of harm caused,29,Exclusion of acts which are offences independently of harm caused
+92,Act done in good faith for benefit of a person without consent,30,Act done in good faith for benefit of a person without consent
+93,Communication made in good faith,31,Communication made in good faith
+94,Act to which a person is compelled by threats,32,Act to which a person is compelled by threats
+95,Act causing slight harm,33,Act causing slight harm
+96,Things done in private defence,34,Things done in private defence
+97,Right of private defence of the body and of property,35,Right of private defence of the body and of property
+98,"Right of private defence against the act of a person of unsound mind, etc.",36,"Right of private defence against the act of a person of unsound mind, etc."
+99,Act against which there is no right of private defence,37,Acts against which there is no right of private defence
+100,When the right of private defence of the body extends to causing death,38,When right of private defence of body extends to causing death
+101,When such right extends to causing any harm other than death,39,When such right extends to causing any harm other than death
+102,Commencement and continuance of the right of private defence of the body,40,Commencement and continuance of right of private defence of body
+103,When the right of private defence of property extends to causing death,41,When right of private defence of property extends to causing death
+104,When such right extends to causing any harm other than death,42,When such right extends to causing any harm other than death
+105,Commencement and continuance of the right of private defence of property,43,Commencement and continuance of right of private defence of property
+106,Right of private defence against deadly assault when there is risk of harm to innocent person,44,Right of private defence against deadly assault when there is risk of harm to innocent person
+107,Abetment of a thing,45,Abetment of a thing
+108,Abettor,46,Abettor
+108A,Abetment in India of offences outside India,47,Abetment in India of offences outside India
+Repealed,Repealed,48,Abetment outside India for offence in India
+109,Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment,49,Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment
+110,Punishment of abetment if person abetted does act with a different intention from that of the abettor,50,Punishment of abetment if person abetted does act with different intention from that of abettor
+111,Liability of abettor when one act abetted and for act done,51,Liability of abettor when one act abetted and different act done.
+112,Abettor when liable to cumulative punishment for act abetted and for act done.,52,Abettor when liable to cumulative punishment for act abetted and for act done.
+113,Liability of abettor for an effect caused by the act abetted different from that intended by the abettor,53,Liability of abettor for an effect caused by act abetted different from that intended by abettor
+114,Abettor present when offence is committed,54,Abettor present when offence is committed
+115,Abetment of offence punishable with death or imprisonment for life—if the offence not committed,55,Abetment of offence punishable with death or imprisonment for life
+116,Abetment of offence punishable with imprisonment—if the offence be not committed,56,Abetment of offence punishable with imprisonment
+117,Abetting commission of offence by the public or by more than ten persons,57,Abetting commission of offence by public or by more than ten persons
+118,Concealing design to commit offence punishable with death or imprisonment for life,58,Concealing design to commit offence punishable with death or imprisonment for life
+119,Public servant concealing design to commit offence which it is his duty to prevent,59,Public servant concealing design to commit offence which it is his duty to prevent
+120,Concealing design to commit offence punishable with imprisonment,60,Concealing design to commit offence punishable with imprisonment
+120A,Definition of criminal conspiracy,61(1),Criminal conspiracy
+120B,Punishment of criminal conspiracy,61(2),Criminal conspiracy
+121,"Waging, or attempting to wage war, or abetting waging of war, against the Government of India",147,"Waging, or attempting to wage war, or abetting waging of war, against the Government of India"
+121A,Conspiracy to commit offences punishable by section 121,148,Conspiracy to commit offences punishable by section 147
+122,"Collecting arms, etc., with intention of waging war against the Government of India",149,"Collecting arms, etc., with intention of waging war against Government of India"
+123,Concealing with intent to facilitate design to wage war,150,Concealing with intent to facilitate design to wage war
+124,"Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power",151,"Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful power"
+124A,Sedition,152,"Acts endangering sovereignty, unity and integrity of India"
+125,Waging war against any Asiatic power in alliance with the Government of India,153,Waging war against Government of any foreign State at peace with Government of India
+126,Committing depredation on territories of power at peace with the Government of India,154,Committing depredation on territories of foreign State at peace with Government of India
+127,Receiving property taken by war or depredation mentioned in sections 125 and 126,155,Receiving property taken by war or depredation mentioned in sections 153 and 154
+128,Public servant voluntarily allowing prisoner of State or war to escape,156,Public servant voluntarily allowing prisoner of State or war to escape
+129,Public servant negligently suffering such prisoner to escape,157,Public servant negligently suffering such prisoner to escape
+130,"Aiding escape of, rescuing or harbouring such prisoner",158,"Aiding escape of, rescuing or harbouring such prisoner"
+131,"Abetting mutiny, attempting to seduce a soldier, sailor or airman from his duty",159,"Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty"
+132,"Abetment of mutiny, if mutiny is committed in consequence thereof",160,"Abetment of mutiny, if mutiny is committed in consequence thereof"
+133,"Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office",161,"Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office"
+134,"Abetment of such assault, if the assault is committed",162,"Abetment of such assault, if the assault committed"
+135,"Abetment of desertion of soldier, sailor or airman",163,"Abetment of desertion of soldier, sailor or airman"
+136,Harbouring deserter,164,Harbouring deserter
+137,"Deserter concealed on board, merchant vessel through negligence of master",165,Deserter concealed on board merchant vessel through negligence of master
+138,"Abetment of act of insubordination by soldier, sailor or airman",166,"Abetment of act of insubordination by soldier, sailor or airman"
+138A,(Repealed) Application of foregoing sections to the Indian Marine Service.,Repealed In BNS,Repealed In BNS
+139,Persons subject to certain Acts,167,Persons subject to certain Acts.
+140,"Wearing garb or carrying token used by soldier, sailor or airman",168,"Wearing garb or carrying token used by soldier, sailor or airman."
+141,Unlawful assembly,189(1),Unlawful assembly
+142,Being member of unlawful assembly,189(2),Unlawful assembly
+143,Punishment,189(3),Unlawful assembly
+144,Joining unlawful assembly armed with deadly weapon,189(4),Unlawful assembly
+145,"Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",189(3)(5),Unlawful assembly
+146,Rioting,191(1),Rioting
+147,Punishment for rioting,191(2),Rioting
+148,"Rioting, armed with deadly weapon",191(3),Rioting
+149,Every member of unlawful assembly guilty of offence committed in prosecution of common object,190,Every member of unlawful assembly guilty of offence committed in prosecution of common object
+150,"Hiring, or conniving at hiring, of persons to join unlawful assembly",189(6),Unlawful assembly
+151,Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse,189(5),Unlawful assembly
+152,"Assaulting or obstructing public servant when suppressing riot, etc.",195,"Assaulting or obstructing public servant when suppressing riot, etc."
+153,Wantonly giving provocation with intent to cause riot – If rioting be committed – If not committed,192,Wantonly giving provocation with intent to cause riot: if rioting be committed; if not committed
+153A,"Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",196,"Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony"
+153B,"Imputations, assertions prejudicial to national integration",197,"Imputations, assertions prejudicial to national integration"
+154,Owner or occupier of land on which an unlawful assembly is held,193(1),Owner of land on which an unlawful assembly or riot takes place
+155,Liability of person for whose benefit riot is committed,193(2),"Liability of owner, occupier, etc., of land on which an unlawful assembly or riot takes place"
+156,Liability of agent or owner or occupier for whose benefit riot is committed,193(3),"Liability of agent of owner, occupier, etc., of land on which an unlawful assembly or riot takes place"
+157,Harbouring persons hired for an unlawful assembly,189(7),Unlawful assembly
+158,Being hired to take part in an unlawful assembly or riot,189(8)(9),Unlawful assembly
+159,Affray,194(1),Affray
+160,Punishment for committing affray,194(2),Affray
+166,"Public servant disobeying law, with intent to cause injury to any person",198,"Public servant disobeying law, with intent to cause injury to any person"
+167,Public servant framing an incorrect document with intent to cause injury,201,Public servant framing an incorrect document with intent to cause injury
+168,Public servant unlawfully engaging in trade,202,Public servant unlawfully engaging in trade
+169,Public servant unlawfully buying or bidding for property,203,Public servant unlawfully buying or bidding for property
+170,Personating a public servant,204,Personating a public servant
+171,Wearing garb or carrying token used by public servant with fraudulent intent,205,Wearing garb or carrying token used by public servant with fraudulent intent
+171A,"“Candidate”, “electoral right” defined",206,"Candidate, electoral right defined"
+171B,Bribery,207,Bribery
+171C,Under influence at elections,171,Undue influence at elections
+171D,Personation at elections,172,Personation at elections
+171E,Punishment for bribery,173,Punishment for bribery
+171F,Punishment for undue influence or personation at an election,174,Punishment for undue influence or personation at an election
+171G,False statement in connection with an election,175,False statement in connection with an election
+171H,Illegal payment in connection with an election,176,Illegal payments in connection with an election
+171I,Failure to keep election accounts,177,Failure to keep election accounts
+172,Absconding to avoid service of summons or other proceeding,206,Absconding to avoid service of summons or other proceeding
+173,"Preventing service of summons or other proceeding, or preventing publication thereof",207,"Preventing service of summons or other proceeding, or preventing publication thereof"
+174,Nonattendance in obedience to an order from public servant,208,Nonattendance in obedience to an order from public servant
+174A,Nonappearance in response to a proclamation under section 82 of Act 2 of 1974,209,"Nonappearance in response to a proclamation under section 84 of Nyaya Nagarik Suraksha Sanhita, 2023"
+175,"Omission to produce document or electronic record to public servant by person, legally bound to produce it",210,Omission to produce document or electronic record to public servant by person legally bound to produce it
+176,Omission to give notice or information to public servant by person legally bound to give it,211,Omission to give notice or information to public servant by person legally bound to give it.
+177,Furnishing false information,212,Furnishing false information
+178,Refusing oath or affirmation when duly required by public servant to make it,213,Refusing oath or affirmation when duly required by public servant to make it
+179,Refusing to answer public servant authorised to question,214,Refusing to answer public servant authorised to question
+180,Refusing to sign statement,215,Refusing to sign statement
+181,False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation,216,False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation
+182,"False information, with intent to cause public servant to use his lawful power to the injury of another person",217,"False information, with intent to cause public servant to use his lawful power to injury of another person"
+183,Resistance to the taking of property by the lawful authority of a public servant,218,Resistance to taking of property by lawful authority of a public servant
+184,Obstructing sale of property offered for sale by authority of public servant,219,Obstructing sale of property offered for sale by authority of public servant
+185,Illegal purchase or bid for property offered for sale by authority of public servant,220,Illegal purchase or bid for property offered for sale by authority of public servant
+186,Obstructing public servant in discharge of public functions,221,Obstructing public servant in discharge of public functions
+187,Omission to assist public servant when bound by law to give assistance,222,Omission to assist public servant when bound by law to give assistance
+188,Disobedience to order duly promulgated by public servant,223,Disobedience to order duly promulgated by public servant
+189,Threat of injury to public servant,224,Threat of injury to public servant
+190,Threat of injury to induce person to refrain from applying for protection to public servant,225,Threat of injury to induce person to refrain from applying for protection to public servant
+191,Giving false evidence,227,Giving false evidence
+192,Fabricating false evidence,228,Fabricating false evidence
+193,Punishment for false evidence,229,Punishment for false evidence
+194,Giving or fabricating false evidence with intent to procure conviction of capital offence,230,Giving or fabricating false evidence with intent to procure conviction of capital offence
+195,Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment,231,Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment
+195A,Threatening any person to give false evidence,232,Threatening any person to give false evidence
+196,Using evidence known to be false,233,Using evidence known to be false
+197,Issuing or signing false certificate,234,Issuing or signing false certificate
+198,Using as true a certificate known to be false,235,Using as true a certificate known to be false
+199,False statement made in declaration which is by law receivable as evidence,236,False statement made in declaration which is by law receivable as evidence
+200,Using as true such declaration knowing it to be false,237,Using as true such declaration knowing it to be false
+201,"Causing disappearance of evidence of offence, or giving false information to screen offender",238,"Causing disappearance of evidence of offence, or giving false information to screen offender"
+202,Intentional omission to give information of offence by person bound to inform,239,Intentional omission to give information of offence by person bound to inform
+203,Giving false information respecting an offence committed,240,Giving false information respecting an offence committed
+204,Destruction of document or electronic record to prevent its production as evidence,241,Destruction of document or electronic record to prevent its production as evidence
+205,False personation for purpose of act or proceeding in suit or prosecution,242,False personation for purpose of act or proceeding in suit or prosecution
+206,Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution,243,Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution
+207,Fraudulent claim to property to prevent its seizure as forfeited or in execution,244,Fraudulent claim to property to prevent its seizure as forfeited or in execution
+208,Fraudulently suffering decree for sum not due,245,Fraudulently suffering decree for sum not due
+209,Dishonestly making false claim in Court,246,Dishonestly making false claim in Court
+210,Fraudulently obtaining decree for sum not due,247,Fraudulently obtaining decree for sum not due
+211,False charge of offence made with intent to injure,248,False charge of offence made with intent to injure
+212,Harbouring offender,249,Harbouring offender
+213,"Taking gift, etc., to screen an offender from punishment",250,"Taking gift, etc., to screen an offender from punishment"
+214,Offering gift or restoration of property in consideration of screening offender,251,Offering gift or restoration of property in consideration of screening offender
+215,"Taking gift to help to recover stolen property, etc.",252,"Taking gift to help to recover stolen property, etc."
+216,Harbouring offender who has escaped from custody or whose apprehension has been ordered,253,Harbouring offender who has escaped from custody or whose apprehension has been ordered
+216A,Penalty for harbouring robbers or dacoits,254,Penalty for harbouring robbers or dacoits
+216B,"Definition of “harbour” in sections 212, 216 and 216A",2(13),Definitions
+217,Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture,255,Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture
+218,Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture,256,Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture
+219,"Public servant in judicial proceeding corruptly making report, etc., contrary to law",257,"Public servant in judicial proceeding corruptly making report, etc., contrary to law"
+220,Commitment for trial or confinement by person having authority who knows that he is acting contrary to law,258,Commitment for trial or confinement by person having authority who knows that he is acting contrary to law
+221,Intentional omission to apprehend on the part of public servant bound to apprehend,259,Intentional omission to apprehend on part of public servant bound to apprehend
+222,Intentional omission to apprehend on the part of public servant bound to apprehend person under sentence or lawfully committed,260,Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed
+223,Escape from confinement or custody negligently suffered by public servant,261,Escape from confinement or custody negligently suffered by public servant
+224,Resistance or obstruction by a person to his lawful apprehension,262,Resistance or obstruction by a person to his lawful apprehension
+225,Resistance or obstruction to lawful apprehension of another person,263,Resistance or obstruction to lawful apprehension of another person
+225A,"Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for",264,"Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for"
+225B,"Resistance or obstruction to lawful apprehension, or escape or rescue, in cases not otherwise provided for",265,"Resistance or obstruction to lawful apprehension, or escape or rescue, in cases not otherwise provided for"
+226,Unlawful return from transportation,Repealed in BNS,Repealed in BNS
+227,Violation of condition of remission of punishment,266,Violation of condition of remission of punishment
+228,Intentional insult or interruption to public servant sitting in judicial proceeding,267,Intentional insult or interruption to public servant sitting in judicial proceeding
+228A,"Disclosure of identity of the victim of certain offences, etc.",72,"Disclosure of identity of victim of certain offences, etc."
+229,Personation of a juror or assessor,268,Personation of assessor
+229A,Failure by person released on bail or bond to appear in Court,269,Failure by person released on bail or bond to appear in Court
+230,“Coin” defined,178,"Counterfeiting coin, Government stamps, currencynotes or banknotes"
+231,Counterfeiting coin,178,"Counterfeiting coin, Government stamps, currencynotes or banknotes"
+232,Counterfeiting Indian coin,178,"Counterfeiting coin, Government stamps, currencynotes or banknotes"
+233,Making or selling instrument for counterfeiting coin,181,"Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currencynotes or banknotes"
+234,Making or selling instrument for counterfeiting Indian coin,181,"Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currencynotes or banknotes"
+235,"Possession of instrument, or material for the purpose of using the same for counterfeiting coin",181,"Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currencynotes or banknotes"
+236,Abetting in India the counterfeiting out of India of coin,Repealed in BNS,Repealed in BNS
+237,Import or export of counterfeit coin,179,"Using as genuine, forged or counterfeit coin, Government stamp, currencynotes or banknotes"
+238,Import or export of counterfeits of Indian coin,179,"Using as genuine, forged or counterfeit coin, Government stamp, currencynotes or banknotes"
+239,"Delivery of coin, possessed with knowledge that it is counterfeit",179,"Using as genuine, forged or counterfeit coin, Government stamp, currencynotes or banknotes"
+240,"Delivery of Indian coin, possessed with knowledge that it is counterfeit",180,"Possession of forged or counterfeit coin, Government stamp, currency notes or banknotes"
+241,"Delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit",Repealed in BNS,Repealed in BNS
+242,Possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof,180 Explanation,"Possession of forged or counterfeit coin, Government stamp, currency notes or banknotes"
+243,Possession of Indian coin by person who knew it to be altered when he became possessed thereof,180 Explanation,"Possession of forged or counterfeit coin, Government stamp, currency notes or banknotes"
+244,Person employed in mint causing coin to be of different weight or composition from that fixed by law,187,Person employed in mint causing coin to be of different weight or composition from that fixed by law
+245,Unlawfully taking coining instrument from mint,188,Unlawfully taking coining instrument from mint
+246,Fraudulently or dishonestly diminishing weight or altering composition of coin,178(5),"Counterfeiting coin, Government stamps, currencynotes or banknotes"
+247,Fraudulently or dishonestly diminishing weight or altering composition of Indian coin,178(5),"Counterfeiting coin, Government stamps, currencynotes or banknotes"
+248,Altering appearance of coin with intent that it shall pass as coin of different description,178(5),"Counterfeiting coin, Government stamps, currencynotes or banknotes"
+249,Altering appearance of Indian coin with intent that it shall pass as coin of different description,178(5),"Counterfeiting coin, Government stamps, currencynotes or banknotes"
+250,"Delivery of coin, possessed with knowledge that it is altered",180,"Possession of forged or counterfeit coin, Government stamp, currency notes or banknotes"
+251,"Delivery of Indian coin, possessed with knowledge that it is altered",180,"Possession of forged or counterfeit coin, Government stamp, currency notes or banknotes"
+252,Possession of coin by person who knew it to be altered when he became possessed thereof,180 Explanation,"Possession of forged or counterfeit coin, Government stamp, currency notes or banknotes"
+255,Counterfeiting Government stamp,178,"Counterfeiting coin, Government stamps, currencynotes or banknotes"
+256,Having possession of instrument or material for counterfeiting Government stamp,181,"Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currencynotes or banknotes"
+257,Making or selling instrument for counterfeiting Government stamp,181,"Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currencynotes or banknotes"
+258,Sale of counterfeit Government stamp,181,"Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currencynotes or banknotes"
+259,Having possession of counterfeit Government stamp,180,"Possession of forged or counterfeit coin, Government stamp, currency notes or banknotes"
+260,Using as genuine a Government stamp known to be counterfeit,179,"Using as genuine, forged or counterfeit coin, Government stamp, currency notes or bank notes"
+261,"Effacing, writing fromsubstance bearing Government stamp, or removing fromdocument a stamp used for it,with intent to cause loss toGovernment",183,"Effacing writing from substance bearing Government stamp, or removing from document a stampused for it, with intent to cause lossto Government"
+262,Using Government stamp known to have been before used,184,Using Government stamp known to have been before used
+263,Erasure of mark denoting that stamp has been used,185,Erasure of mark denoting that stamp has been used
+263A,Prohibition of fictitious stamps,186,Prohibition of fictitious stamps
+264,Fraudulent use of false instrument for weighing,Repealed in BNS,Repealed in BNS
+265,Fraudulent use of false weight or measure,Repealed in BNS,Repealed in BNS
+266,Being in possession of false weight or measure,Repealed in BNS,Repealed in BNS
+267,Making or selling false weight or measure,Repealed in BNS,Repealed in BNS
+268,Public nuisance,270,Public nuisance
+269,Negligent act likely to spread infection of disease dangerous to life,271,Negligent act likely to spread infection of disease dangerous to life
+270,Malignant Act likely to spread infection of disease dangerous to life,272,Malignant act likely to spread infection of disease dangerous to life
+271,Disobedience to quarantine rule,273,Disobedience to quarantine rule
+272,Adulteration of food or drink intended for sale,274,Adulteration of food or drink intended for sale
+273,Sale of noxious food or drink,275,Sale of noxious food or drink
+274,Adulteration of drugs,276,Adulteration of drugs
+275,Sale of adulterated drugs,277,Sale of adulterated drugs
+276,Sale of drug as a different drug or preparation,278,Sale of drug as a different drug or preparation
+277,Fouling water of public spring or reservoir,279,Fouling water of public spring or reservoir
+278,Making atmosphere noxious to health,280,Making atmosphere noxious to health
+279,Rash driving or riding on a public way,281,Rash driving or riding on a public way
+280,Rash navigation of vessel,282,Rash navigation of vessel
+281,"Exhibition of false light, mark or buoy",283,"Exhibition of false light, mark or buoy"
+282,Conveying person by water for hire in unsafe or overloaded vessel,284,Conveying person by water for hire in unsafe or overloaded vessel
+283,Danger or obstruction in public way or line of navigation,285,Danger or obstruction in public way or line of navigation
+284,Negligent conduct with respect to poisonous substance,286,Negligent conduct with respect to poisonous substance
+285,Negligent conduct with respect to fire or combustible matter,287,Negligent conduct with respect to fire or combustible matter
+286,Negligent conduct with respect to explosive substance,288,Negligent conduct with respect to explosive substance
+287,Negligent conduct with respect to machinery,289,Negligent conduct with respect to machinery
+288,"Negligent conduct with respect to pulling down or repairing buildings, etc.",290,"Negligent conduct with respect to pulling down, repairing or constructing buildings etc."
+289,Negligent conduct with respect to animal,291,Negligent conduct with respect to animal
+290,Punishment for public nuisance in cases not otherwise provided for,292,Punishment for public nuisance in cases not otherwise provided for
+291,Continuance of nuisance after injunction to discontinue,293,Continuance of nuisance after injunction to discontinue
+292,"Sale, etc., of obscene books, etc.",294,"Sale, etc., of obscene books, etc."
+293,"Sale, etc., of obscene objects to young person",295,"Sale, etc., obscene objects to child"
+294,Obscene acts and songs,296,Obscene acts and songs
+294A,Keeping lottery office,297,Keeping lottery office
+295,Injuring or defiling place of worship with intent to insult the religion of any class,298,Injuring or defiling place of worship with intent to insult religion of any class
+295A,"Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs",299,"Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs"
+296,Disturbing religious assembly,300,Disturbing religious assembly
+297,"Trespassing on burial places, etc.",301,"Trespassing on burial places, etc."
+298,"Uttering words, etc., with deliberate intent to wound the religious feelings of any person",302,"Uttering words, etc., with deliberate intent to wound religious feelings of any person"
+299,Culpable homicide,100,Culpable homicide
+300,Murder,101,Murder
+301,Culpable homicide by causing death of person other than person whose death was intended,102,Culpable homicide by causing death of person other than person whose death was intended
+302,Punishment for murder,103,Punishment for murder
+303,Punishment for murder by lifeconvict,104,Punishment for murder by lifeconvict
+304,Punishment for culpable homicide not amounting to murder,105,Punishment for culpable homicide not amounting to murder
+304A,Causing death by negligence,106,Causing death by negligence
+304B,Dowry death,80,Dowry death
+305,Abetment of suicide of child or insane person,107,Abetment of suicide of child or person of unsound mind
+306,Abetment of suicide,108,Abetment of suicide
+307,Attempt to murder,109,Attempt to murder
+308,Attempt to commit culpable homicide,110,Attempt to commit culpable homicide
+309,Attempt to commit suicide,226,Attempt to commit suicide to compel or restrain exercise of lawful power
+310,Thug,Repealed in BNS,Repealed in BNS
+311,Punishment,Repealed in BNS,Repealed in BNS
+312,Causing miscarriage,88,Causing miscarriage
+313,Causing miscarriage without woman’s consent,89,Causing miscarriage without woman’s consent
+314,Death caused by act done with intent to cause miscarriage,90,Death caused by act done with intent to cause miscarriage
+315,Act done with intent to prevent child being born alive or to cause it to die after birth,91,Act done with intent to prevent child being born alive or to cause it to die after birth
+316,Causing death of quick unborn,92,Causing death of quick unborn
+317,"Exposure and abandonment of child under twelve years, by parent or person having care of it",93,"Exposure and abandonment of child under twelve years, by parent or person having care of it"
+318,"Exposure and abandonment of child under twelve years, by parent or person having care of it",94,"Exposure and abandonment of child under twelve years, by parent or person having care of it"
+319,Hurt,114,Hurt
+320,Grievous hurt,116,Grievous hurt
+321,Voluntarily causing hurt,115(1),Voluntarily causing hurt
+322,Voluntarily causing grievous hurt,117(1),Voluntarily causing grievous hurt
+323,Punishment for voluntarily causing hurt,115(2),Voluntarily causing hurt
+324,Voluntarily causing hurt by dangerous weapons or means,118(1),Voluntarily causing hurt or grievous hurt by dangerous weapons or means
+325,Punishment for voluntarily causing grievous hurt,117(2),Voluntarily causing grievous hurt
+326,Voluntarily causing grievous hurt by dangerous weapons or means,118,Voluntarily causing hurt by dangerous weapons or means
+326A,"Voluntarily causing grievous hurt by use of acid, etc.",124(1),"Voluntarily causing grievous hurt by use of acid, etc."
+326B,Voluntarily throwing or attempting to throw acid,124(2),"Voluntarily causing grievous hurt by use of acid, etc."
+327,"Voluntarily causing hurt to extort property, or to constrain to an illegal act",119,"Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act"
+328,"Causing hurt by means of poison, etc., with intent to commit an offence",123,"Causing hurt by means of poison, etc., with intent to commit an offence"
+329,"Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act",119,"Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act"
+330,"Voluntarily causing hurt to extort confession, or to compel restoration of property",120,"Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property"
+331,"Voluntarily causing grievous hurt to extort confession, or to compel restoration of property",120,"Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property"
+332,Voluntarily causing hurt to deter public servant from his duty,121,Voluntarily causing hurt or grievous hurt to deter public servant from his duty
+333,Voluntarily causing grievous hurt to deter public servant from his duty,121,Voluntarily causing hurt or grievous hurt to deter public servant from his duty
+334,Voluntarily causing hurt on provocation,122,Voluntarily causing hurt on provocation
+335,Voluntarily causing grievous hurt on provocation,122,Voluntarily causing grievous hurt on provocation
+336,Act endangering life or personal safety of others,125,Act endangering life or personal safety of others
+337,Causing hurt by act endangering life or personal safety of others,125,Act endangering life or personal safety of others
+338,Causing grievous hurt by act endangering life or personal safety of others,125,Act endangering life or personal safety of others
+339,Wrongful restraint,126,Wrongful restraint
+340,Wrongful confinement,127,Wrongful confinement
+341,Punishment for wrongful restraint,127,Wrongful confinement
+342,Punishment for wrongful confinement,127,Wrongful confinement
+343,Wrongful confinement for three or more days,127,Wrongful confinement
+344,Wrongful confinement for ten or more days,127,Wrongful confinement
+345,Wrongful confinement of person for whose liberation writ has been issued,127,Wrongful confinement
+346,Wrongful confinement in secret,127,Wrongful confinement
+347,"Wrongful confinement to extort property, or constrain to illegal act",127,Wrongful confinement
+348,"Wrongful confinement to extort confession, or compel restoration of property",127,Wrongful confinement
+349,Force,128,Force
+350,Criminal force,129,Criminal force
+351,Assault,130,Assault
+352,Punishment for assault or criminal force otherwise than on grave provocation,131,Punishment for assault or criminal force otherwise than on grave provocation
+353,Assault or criminal force to deter public servant from discharge of his duty,132,Assault or criminal force to deter public servant from discharge of his duty
+354,Assault or criminal force to woman with intent to outrage her modesty,74,Assault or use of criminal force to woman with intent to outrage her modesty
+354A,Sexual harassment and punishment for sexual harassment,75,Sexual harassment
+354B,Assault or use of criminal force to woman with intent to disrobe,76,Assault or use of criminal force to woman with intent to disrobe
+354C,Voyeurism,77,Voyeurism
+354D,Stalking,78,Stalking
+355,"Assault or criminal force with intent to dishonour person, otherwise than on grave provocation",133,"Assault or criminal force with intent to dishonour person, otherwise than on grave provocation"
+356,Assault or criminal force in attempt to commit theft of property carried by a person,134,Assault or criminal force in attempt to commit theft of property carried by a person
+357,Assault or criminal force in attempt wrongfully to confine a person,135,Assault or criminal force in attempt wrongfully to confine a person
+358,Assault or criminal force on grave provocation,136,Assault or criminal force on grave provocation
+359,Kidnapping,137,Kidnapping
+360,Kidnapping from India,137,Kidnapping
+361,Kidnapping from lawful guardianship,137,Kidnapping
+362,Abduction,138,Abduction
+363,Punishment for kidnapping,137(2),Punishment for kidnapping
+363A,Kidnapping or maiming a minor for purposes of begging,139,Kidnapping or maiming a child for purposes of begging
+364,Kidnapping or abducting in order to murder,140,"Kidnapping or abducting in order to murder or for ransom, etc."
+364A,"Kidnapping for ransom, etc.",140,"Kidnapping or abducting in order to murder or for ransom, etc."
+365,Kidnapping or abducting with intent secretly and wrongfully to confine person,140(3),"Kidnapping or abducting in order to murder or for ransom, etc."
+366,"Kidnapping, abducting or inducing woman to compel her marriage, etc.",87,"Kidnapping, abducting or inducing woman to compel her marriage, etc."
+366A,Procurement of minor girl,96,Procurement of child
+366B,Importation of girl from foreign country,141,Importation of girl or boy from foreign country
+367,"Kidnapping or abducting in order to subject person to grievous hurt, slavery, etc.",140,"Kidnapping or abducting in order to murder or for ransom, etc."
+368,"Wrongfully concealing or keeping in confinement, kidnapped or abducted person",140(2),"Wrongfully concealing or keeping in confinement, kidnapped or abducted person"
+369,Kidnapping or abducting child under ten years with intent to steal from its person,97,Kidnapping or abducting child under ten years with intent to steal from its person
+370,Trafficking of person,143,Trafficking of person
+370A,Exploitation of a trafficked person,144,Exploitation of a trafficked person
+371,Habitual dealing in slaves,145,Habitual dealing in slaves
+372,"Selling minor for purposes of prostitution, etc.",98,"Selling child for purposes of prostitution, etc."
+373,"Buying minor for purposes of prostitution, etc.",99,"Buying child for purposes of prostitution, etc."
+374,Unlawful compulsory labour,146,Unlawful compulsory labour
+375,Rape,63,Rape
+376,Punishment for rape,64,Punishment for rape
+376A,Punishment for causing death or resulting in persistent vegetative state of victim,66,Punishment for causing death or resulting in persistent vegetative state of victim
+376AB,Punishment for rape on woman under twelve years of age,65(2),Punishment for rape in certain cases
+376B,Sexual intercourse by husband upon his wife during separation,67,Sexual intercourse by husband upon his wife during separation
+376C,Sexual intercourse by a person in authority,68,Sexual intercourse by a person in authority
+376D,Gang rape,70,Gang rape
+376DA,Punishment for gang rape on woman under sixteen years of age,70,Gang rape
+376DB,Punishment for gang rape on woman under twelve years of age2,70,Gang rape
+376E,Punishment for repeat offenders,71,Punishment for repeat offenders
+377,Unnatural offences,Repealed in BNS,Repealed in BNS
+378,Theft,303(1),Theft
+379,Punishment for theft,303,Theft
+379A,Snatching,304,Snatching
+379B,Punishment for Snatching,304,Snatching
+380,"Theft in dwelling house, etc.",305,"Theft in a dwelling house, or means of transportation or place of worship, etc."
+381,Theft by clerk or servant of property in possession of master,306,Theft by clerk or servant of property in possession of master
+382,"Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft",307,"Theft after preparation made for causing death, hurt or restraint in order to the committing of theft"
+383,Extortion,308,Extortion
+384,Punishment for extortion,308(2),Extortion
+385,Putting person in fear of injury in order to commit extortion,308(3),Extortion
+386,Extortion by putting a person in fear of death or grievous hurt,308(4),Extortion
+387,"Putting person in fear of death or of grievous hurt, in order to commit extortion",308(5),Extortion
+388,"Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc.",308(6),Extortion
+389,"Putting person in fear of accusation of offence, in order to commit extortion",308(7),Extortion
+390,Robbery,309,Robbery
+391,Dacoity,310,Dacoity
+392,Punishment for robbery,309,Robbery
+393,Attempt to commit robbery,309,Robbery
+394,Voluntarily causing hurt in committing robbery,309,Robbery
+395,Punishment for dacoity,310,Dacoity
+396,Dacoity with murder,310(3),Dacoity
+397,"Robbery, or dacoity, with attempt to cause death or grievous hurt",311,"Robbery, or dacoity, with attempt to cause death or grievous hurt"
+398,Attempt to commit robbery or dacoity when armed with deadly weapon,312,Attempt to commit robbery or dacoity when armed with deadly weapon
+399,Making preparation to commit dacoity,310(4),Dacoity
+400,Punishment for belonging to gang of dacoits,313,"Punishment for belonging to gang of robbers, etc."
+401,Punishment for belonging to gang of thieves,313,"Punishment for belonging to gang of robbers, etc."
+402,Assembling for purpose of committing dacoity,310(5),Dacoity
+403,Dishonest misappropriation of property,316,Criminal breach of trust
+404,Dishonest misappropriation of property possessed by deceased person at the time of his death,315,Dishonest misappropriation of property possessed by deceased person at the time of his death
+405,Criminal breach of trust,316,Criminal breach of trust
+406,Punishment for criminal breach of trust,316(2),Criminal breach of trust
+407,"Criminal breach of trust by carrier, etc.",316(3),Criminal breach of trust
+408,Criminal breach of trust by clerk or servant,316(4),Criminal breach of trust
+409,"Criminal breach of trust by public servant, or by banker, merchant or agent",316(5),Criminal breach of trust
+410,Stolen property,317(1),Stolen property
+411,Dishonestly receiving stolen property,317(2),Stolen property
+412,Dishonestly receiving property stolen in the commission of a dacoity,317(3),Stolen property
+413,Habitually dealing in stolen property,317(4),Stolen property
+414,Assisting in concealment of stolen property,317(5),Stolen property
+415,Cheating,318,Cheating
+416,Cheating by personation,319,Cheating by personation
+417,Punishment for cheating,318(2),Cheating
+418,Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect,318(3),Cheating
+419,Punishment for cheating by personation,319(2),Cheating by personation
+420,Cheating and dishonestly inducing delivery of property,318(4),Cheating
+421,Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors,320,Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors
+422,Dishonestly or fraudulently preventing debt being available for creditors,321,Dishonestly or fraudulently preventing debt being available for creditors
+423,Dishonest or fraudulent execution of deed of transfer containing false statement of consideration,322,Dishonest or fraudulent execution of deed of transfer containing false statement of consideration
+424,Dishonest or fraudulent removal or concealment of property,323,Dishonest or fraudulent removal or concealment of property
+425,Mischief,324,Mischief
+426,Punishment for mischief,324,Mischief
+427,Mischief causing damage to the amount of fifty rupees,324,Mischief
+428,Mischief by killing or maiming animal of the value of ten rupees,325,Mischief by killing or maiming animal
+429,"Mischief by killing or maiming cattle, etc., of any value or any animal of the value of fifty rupees",325,Mischief by killing or maiming animal
+430,Mischief by injury to works of irrigation or by wrongfully diverting water,326(a),"Mischief by injury, inundation, or explosive substance, etc."
+431,"Mischief by injury to public road, bridge, river or channel",326(b),"Mischief by injury, inundation, or explosive substance, etc."
+432,Mischief by causing inundation or obstruction to public drainage attended with damage,326(c),"Mischief by injury, inundation, or explosive substance, etc."
+433,"Mischief by destroying, moving or rendering less useful a lighthouse or seamark",326(d),"Mischief by injury, inundation, or explosive substance, etc."
+434,"Mischief by destroying or moving, etc., a landmark fixed by public authority",326(e),"Mischief by injury, inundation, or explosive substance, etc."
+435,Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees,326(f),"Mischief by injury, inundation, or explosive substance, etc."
+436,"Mischief by fire or explosive substance with intent to destroy house, etc.",326(g),"Mischief by injury, inundation, or explosive substance, etc."
+437,Mischief with intent to destroy or make unsafe a decked vessel or one of twenty tons burden,327(1),"Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden"
+438,Punishment for the mischief described in section 437 committed by fire or explosive substance,327(2),"Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden"
+439,"Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.",328,"Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc."
+440,Mischief committed after preparation made for causing death or hurt,324(6),Mischief
+441,Criminal trespass,329,Criminal trespass and housetrespass
+442,Housetrespass,330,Housetrespass and housebreaking
+443,Lurking housetrespass,331,Punishment for housetrespass or housebreaking
+444,Lurking housetrespass by night,331,Punishment for housetrespass or housebreaking
+445,Housebreaking,330,Housetrespass and housebreaking
+446,Housebreaking by night,331,Punishment for housetrespass or housebreaking
+447,Punishment for criminal trespass,329(3),Criminal trespass and housetrespass
+448,Punishment for housetrespass,331,Punishment for housetrespass or housebreaking
+449,Housetrespass in order to commit offence punishable with death,332(a),Housetrespass in order to commit offence
+450,Housetrespass in order to commit offence punishable with imprisonment for life,332(b),Housetrespass in order to commit offence
+451,Housetrespass in order to commit offence punishable with imprisonment,332(c),Housetrespass in order to commit offence
+452,"Housetrespass after preparation for hurt, assault or wrongful restraint",333,"Housetrespass after preparation for hurt, assault or wrongful restraint"
+453,Punishment for lurking housetrespass or housebreaking,331,Punishment for housetrespass or housebreaking
+454,Lurking housetrespass or housebreaking in order to commit offence punishable with imprisonment,331(3),Punishment for housetrespass or housebreaking
+455,Lurking housetrespass or housebreaking in order to commit offence punishable with imprisonment for life,331(3),Punishment for housetrespass or housebreaking
+456,Punishment for lurking housetrespass or housebreaking by night,"331(2, 4)",Punishment for housetrespass or housebreaking
+457,Lurking housetrespass or housebreaking by night in order to commit offence punishable with imprisonment,"331(2, 4)",Punishment for housetrespass or housebreaking
+458,"Lurking housetrespass or housebreaking by night after preparation for hurt, assault, or wrongful restraint",331,Punishment for housetrespass or housebreaking
+459,Grievous hurt caused whilst committing lurking housetrespass or housebreaking,332,Housetrespass or housebreaking
+460,All persons jointly concerned in lurking housetrespass or housebreaking by night punishable where death or grievous hurt caused by one of them,331(8),Punishment for housetrespass or housebreaking
+461,Dishonestly breaking open receptacle containing property,334,Dishonestly breaking open receptacle containing property
+462,Punishment for same offence when committed by person entrusted with custody,334,Dishonestly breaking open receptacle containing property
+463,Forgery,336(1),Forgery
+464,Making a false document,335,Making a false document
+465,Punishment for forgery,336(1),Forgery
+466,"Forgery of record of Court or of public register, etc.",337,"orgery of record of Court or of public register, etc"
+467,"Forgery of valuable security, will, etc.",338,"Forgery of valuable security, will, etc."
+468,Forgery for purpose of cheating,336(2),Forgery
+469,Forgery for purpose of harming reputation,336(3),Forgery
+470,Forged document,340,Forged document or electronic record and using it as genuine.
+471,Using as genuine a forged document,340,Forged document or electronic record and using it as genuine.
+472,"Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 467",341,"341. Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 338 - Bharatiya Nyaya Sanhita, 2023"
+473,"Counterfeit seal, etc., with intent to commit forgery punishable otherwise",341(2),"Seal, etc., with intent to commit forgery punishable under section 338"
+474,"Having possession of document described in section 466 or 467, knowing it to be forged and intending to use it as genuine",339,"Having possession of document described in section 337 or section 338, knowing it to be forged and intending to use it as genuine"
+475,"Counterfeiting device or mark used for authenticating documents other than those described in section 467, or possessing counterfeit marked material",342(1),"Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material"
+476,"Counterfeiting device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material",342(2),"Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material"
+477,"Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security",343,"Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security"
+477A,Falsification of accounts,344,Falsification of accounts
+478,Repeal,Repealed in BNS,Repealed in BNS
+479,Property mark,345(1),Property mark
+480,Repeal,Repealed in BNS,Repealed in BNS
+481,Using a false property mark,345(2),Property mark
+482,Punishment for using a false property mark,345(2),Property mark
+483,Counterfeiting a property mark used by a public servant,347(1),Counterfeiting a property mark used by a public servant
+484,Counterfeiting a mark used by a public servant,347(2),Counterfeiting a property mark
+485,Making or possession of any instrument for counterfeiting a property mark,348,Making or possession of any instrument for counterfeiting a property mark
+486,Selling goods marked with a counterfeit property mark,349,Selling goods marked with a counterfeit property mark
+487,Making a false mark upon any receptacle containing goods,350,Making a false mark upon any receptacle containing goods
+488,Punishment for making use of any such false mark,351,Punishment for making use of any such false mark
+489,Tampering with property mark with intent to cause injury,352,Tampering with property mark with intent to cause injury
+489A,Counterfeiting currencynotes or banknotes,178,"Counterfeiting coin, Government stamps, currencynotes or banknotes"
+489B,"Using as genuine, forged or counterfeit currencynotes or banknotes",179,"Using as genuine, forged or counterfeit coin, Government stamp, currencynotes or banknotes"
+489C,Possession of forged or counterfeit currencynotes or banknotes,180,"Possession of forged or counterfeit coin, Government stamp, currencynotes or banknotes"
+489D,Making or possessing instruments or materials for forging or counterfeiting currencynotes or banknotes,181,"Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currencynotes or banknotes"
+489E,Making or using documents resembling currencynotes or banknotes,182,Making or using documents resembling currencynotes or banknotes
+490,Repealed,Repealed in BNS,Repealed in BNS
+491,Breach of contract to attend on and supply wants of helpless person,357,Breach of contract to attend on and supply wants of helpless person
+492,Repealed,Repealed in BNS,Repealed in BNS
+493,Cohabitation caused by a man deceitfully inducing a belief of lawful marriage,81,Cohabitation caused by man deceitfully inducing belief of lawful marriage
+494,Marrying again during lifetime of husband or wife,82(1),Marrying again during lifetime of husband or wife
+495,Same offence with concealment of former marriage from person with whom subsequent marriage is contracted,82(2),Marrying again during lifetime of husband or wife
+496,Marriage ceremony fraudulently gone through without lawful marriage,83,Marriage ceremony fraudulently gone through without lawful marriage
+497,Adultery,Repealed in BNS,Repealed in BNS
+498,Enticing or taking away or detaining with criminal intent a married woman,84,Enticing or taking away or detaining with criminal intent a married woman
+498A,Husband or relative of husband of a woman subjecting her to cruelty,85,Husband or relative of husband of a woman subjecting her to cruelty
+499,Defamation,356(1),Defamation
+500,Punishment for defamation,356(2),Defamation
+501,Printing or engraving matter known to be defamatory,356(2),Defamation
+502,Sale of printed or engraved substance containing defamatory matter,356(2),Defamation
+503,Criminal intimidation,351(1),Criminal intimidation
+504,Intentional insult with intent to provoke breach of the peace,352,Intentional insult with intent to provoke breach of peace
+505,Statements conducing to public mischief,353,Statements conducing to public mischief
+506,Punishment for criminal intimidation,351(2) & (3),Criminal intimidation
+507,Criminal intimidation by an anonymous communication,351(4),Criminal intimidation
+508,Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure,354,Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure
+509,"Word, gesture or act intended to insult the modesty of a woman",79,"Word, gesture or act intended to insult the modesty of a woman"
+510,Misconduct in public by a drunken person,355,Misconduct in public by a drunken person
+511,Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment,62,Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment
